@@ -1,0 +1,4481 @@
+{
+  "meta": {
+    "store": "TH Clone (educational project)",
+    "currency": "USD",
+    "locale": "en-US",
+    "generatedAt": "2026-08-13",
+    "note": "Mock data. Images are placeholders, not brand assets."
+  },
+  "navigation": [
+    {
+      "slug": "men",
+      "name": "Men",
+      "nameAz": "Kişi",
+      "subcategories": [
+        {
+          "slug": "t-shirts",
+          "name": "T-Shirts"
+        },
+        {
+          "slug": "polos",
+          "name": "Polos"
+        },
+        {
+          "slug": "shirts",
+          "name": "Shirts"
+        },
+        {
+          "slug": "sweaters",
+          "name": "Sweaters"
+        },
+        {
+          "slug": "hoodies-sweatshirts",
+          "name": "Hoodies & Sweatshirts"
+        },
+        {
+          "slug": "jackets-coats",
+          "name": "Jackets & Coats"
+        },
+        {
+          "slug": "jeans",
+          "name": "Jeans"
+        },
+        {
+          "slug": "trousers-chinos",
+          "name": "Trousers & Chinos"
+        },
+        {
+          "slug": "shorts",
+          "name": "Shorts"
+        },
+        {
+          "slug": "shoes",
+          "name": "Shoes"
+        },
+        {
+          "slug": "accessories",
+          "name": "Accessories"
+        },
+        {
+          "slug": "underwear",
+          "name": "Underwear & Loungewear"
+        }
+      ]
+    },
+    {
+      "slug": "women",
+      "name": "Women",
+      "nameAz": "Qadın",
+      "subcategories": [
+        {
+          "slug": "t-shirts",
+          "name": "T-Shirts"
+        },
+        {
+          "slug": "tops-blouses",
+          "name": "Tops & Blouses"
+        },
+        {
+          "slug": "dresses",
+          "name": "Dresses"
+        },
+        {
+          "slug": "knitwear",
+          "name": "Knitwear"
+        },
+        {
+          "slug": "hoodies-sweatshirts",
+          "name": "Hoodies & Sweatshirts"
+        },
+        {
+          "slug": "jackets-coats",
+          "name": "Jackets & Coats"
+        },
+        {
+          "slug": "jeans",
+          "name": "Jeans"
+        },
+        {
+          "slug": "skirts",
+          "name": "Skirts"
+        },
+        {
+          "slug": "trousers",
+          "name": "Trousers"
+        },
+        {
+          "slug": "bags",
+          "name": "Bags"
+        },
+        {
+          "slug": "shoes",
+          "name": "Shoes"
+        },
+        {
+          "slug": "accessories",
+          "name": "Accessories"
+        }
+      ]
+    },
+    {
+      "slug": "boys",
+      "name": "Boys",
+      "nameAz": "Oğlan",
+      "subcategories": [
+        {
+          "slug": "t-shirts",
+          "name": "T-Shirts"
+        },
+        {
+          "slug": "polos",
+          "name": "Polos"
+        },
+        {
+          "slug": "hoodies-sweatshirts",
+          "name": "Hoodies & Sweatshirts"
+        },
+        {
+          "slug": "jackets",
+          "name": "Jackets"
+        },
+        {
+          "slug": "jeans",
+          "name": "Jeans"
+        },
+        {
+          "slug": "shorts",
+          "name": "Shorts"
+        },
+        {
+          "slug": "shoes",
+          "name": "Shoes"
+        }
+      ]
+    },
+    {
+      "slug": "girls",
+      "name": "Girls",
+      "nameAz": "Qız",
+      "subcategories": [
+        {
+          "slug": "t-shirts",
+          "name": "T-Shirts"
+        },
+        {
+          "slug": "dresses",
+          "name": "Dresses"
+        },
+        {
+          "slug": "hoodies-sweatshirts",
+          "name": "Hoodies & Sweatshirts"
+        },
+        {
+          "slug": "jackets",
+          "name": "Jackets"
+        },
+        {
+          "slug": "jeans",
+          "name": "Jeans"
+        },
+        {
+          "slug": "skirts",
+          "name": "Skirts"
+        },
+        {
+          "slug": "shoes",
+          "name": "Shoes"
+        }
+      ]
+    },
+    {
+      "slug": "new-arrivals",
+      "name": "New Arrivals",
+      "nameAz": "Yeni gələnlər",
+      "subcategories": []
+    },
+    {
+      "slug": "sale",
+      "name": "Sale",
+      "nameAz": "Endirim",
+      "subcategories": [
+        {
+          "slug": "men",
+          "name": "Men Sale"
+        },
+        {
+          "slug": "women",
+          "name": "Women Sale"
+        },
+        {
+          "slug": "kids",
+          "name": "Kids Sale"
+        }
+      ]
+    }
+  ],
+  "filters": {
+    "size": [
+      "10-11Y",
+      "12-13Y",
+      "14-16Y",
+      "28/32",
+      "30/32",
+      "31/32",
+      "32/32",
+      "33/34",
+      "34/34",
+      "36/34",
+      "39",
+      "4-5Y",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "6-7Y",
+      "8-9Y",
+      "L",
+      "M",
+      "One Size",
+      "S",
+      "XL",
+      "XS",
+      "XXL"
+    ],
+    "color": [
+      {
+        "name": "Desert Sky",
+        "hex": "#0a1f44"
+      },
+      {
+        "name": "Optic White",
+        "hex": "#ffffff"
+      },
+      {
+        "name": "Primary Red",
+        "hex": "#c8102e"
+      },
+      {
+        "name": "Navy Blazer",
+        "hex": "#1b2a41"
+      },
+      {
+        "name": "Black",
+        "hex": "#111111"
+      },
+      {
+        "name": "Sand Khaki",
+        "hex": "#c2b280"
+      },
+      {
+        "name": "Sky Cloud",
+        "hex": "#a8c4de"
+      },
+      {
+        "name": "Olive",
+        "hex": "#5a5f3a"
+      },
+      {
+        "name": "Ecru",
+        "hex": "#efe6d3"
+      },
+      {
+        "name": "Charcoal Grey",
+        "hex": "#4a4a4a"
+      }
+    ],
+    "priceRanges": [
+      {
+        "label": "Under $50",
+        "min": 0,
+        "max": 50
+      },
+      {
+        "label": "$50 - $100",
+        "min": 50,
+        "max": 100
+      },
+      {
+        "label": "$100 - $200",
+        "min": 100,
+        "max": 200
+      },
+      {
+        "label": "$200+",
+        "min": 200,
+        "max": 100000
+      }
+    ],
+    "fit": [
+      "Slim Fit",
+      "Regular Fit",
+      "Relaxed Fit",
+      "Oversized"
+    ],
+    "sortOptions": [
+      {
+        "value": "featured",
+        "label": "Featured"
+      },
+      {
+        "value": "newest",
+        "label": "Newest"
+      },
+      {
+        "value": "price-asc",
+        "label": "Price: Low to High"
+      },
+      {
+        "value": "price-desc",
+        "label": "Price: High to Low"
+      },
+      {
+        "value": "rating",
+        "label": "Top Rated"
+      }
+    ]
+  },
+  "heroSlides": [
+    {
+      "title": "Fall 2026 Collection",
+      "subtitle": "Icons, reimagined",
+      "cta": "Shop Now",
+      "href": "/new-arrivals",
+      "image": "https://picsum.photos/seed/hero-1/1920/900"
+    },
+    {
+      "title": "Up To 50% Off",
+      "subtitle": "End of season sale",
+      "cta": "Shop Sale",
+      "href": "/sale",
+      "image": "https://picsum.photos/seed/hero-2/1920/900"
+    },
+    {
+      "title": "Denim Edit",
+      "subtitle": "Every fit, every wash",
+      "cta": "Shop Denim",
+      "href": "/men/jeans",
+      "image": "https://picsum.photos/seed/hero-3/1920/900"
+    }
+  ],
+  "footer": {
+    "Help": [
+      "Contact Us",
+      "Shipping",
+      "Returns & Exchanges",
+      "Order Status",
+      "Size Guide",
+      "FAQ"
+    ],
+    "About": [
+      "Our Story",
+      "Careers",
+      "Sustainability",
+      "Press",
+      "Store Locator"
+    ],
+    "Legal": [
+      "Privacy Policy",
+      "Terms of Use",
+      "Cookie Settings",
+      "Accessibility"
+    ],
+    "social": [
+      "instagram",
+      "facebook",
+      "x",
+      "youtube",
+      "tiktok"
+    ]
+  },
+  "products": [
+    {
+      "id": 1001,
+      "sku": "TH-ME-1001",
+      "name": "Essential Crew Neck T-Shirt",
+      "slug": "essential-crew-neck-t-shirt-1001",
+      "category": "men",
+      "subcategory": "t-shirts",
+      "price": 249.9,
+      "oldPrice": 312.38,
+      "discountPercent": 20,
+      "currency": "USD",
+      "rating": 3.6,
+      "reviewCount": 227,
+      "colors": [
+        {
+          "name": "Optic White",
+          "hex": "#ffffff",
+          "image": "https://picsum.photos/seed/essential-crew-neck-t-shirt-1001-optic-white/800/1000"
+        },
+        {
+          "name": "Ecru",
+          "hex": "#efe6d3",
+          "image": "https://picsum.photos/seed/essential-crew-neck-t-shirt-1001-ecru/800/1000"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "images": [
+        "https://picsum.photos/seed/essential-crew-neck-t-shirt-1001-1/800/1000",
+        "https://picsum.photos/seed/essential-crew-neck-t-shirt-1001-2/800/1000",
+        "https://picsum.photos/seed/essential-crew-neck-t-shirt-1001-3/800/1000",
+        "https://picsum.photos/seed/essential-crew-neck-t-shirt-1001-4/800/1000"
+      ],
+      "badges": [
+        "sale",
+        "new"
+      ],
+      "inStock": true,
+      "stock": 77,
+      "fit": "Slim Fit",
+      "material": "Wool Blend",
+      "description": "Essential Crew Neck T-Shirt — t-shirts from the men's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-04-27"
+    },
+    {
+      "id": 1002,
+      "sku": "TH-ME-1002",
+      "name": "Relaxed Fit Graphic Tee",
+      "slug": "relaxed-fit-graphic-tee-1002",
+      "category": "men",
+      "subcategory": "t-shirts",
+      "price": 99.9,
+      "oldPrice": null,
+      "discountPercent": 0,
+      "currency": "USD",
+      "rating": 4.9,
+      "reviewCount": 348,
+      "colors": [
+        {
+          "name": "Primary Red",
+          "hex": "#c8102e",
+          "image": "https://picsum.photos/seed/relaxed-fit-graphic-tee-1002-primary-red/800/1000"
+        },
+        {
+          "name": "Sky Cloud",
+          "hex": "#a8c4de",
+          "image": "https://picsum.photos/seed/relaxed-fit-graphic-tee-1002-sky-cloud/800/1000"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "images": [
+        "https://picsum.photos/seed/relaxed-fit-graphic-tee-1002-1/800/1000",
+        "https://picsum.photos/seed/relaxed-fit-graphic-tee-1002-2/800/1000",
+        "https://picsum.photos/seed/relaxed-fit-graphic-tee-1002-3/800/1000",
+        "https://picsum.photos/seed/relaxed-fit-graphic-tee-1002-4/800/1000"
+      ],
+      "badges": [
+        "bestseller"
+      ],
+      "inStock": true,
+      "stock": 48,
+      "fit": "Slim Fit",
+      "material": "Organic Cotton Blend",
+      "description": "Relaxed Fit Graphic Tee — t-shirts from the men's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-06-18"
+    },
+    {
+      "id": 1003,
+      "sku": "TH-ME-1003",
+      "name": "Stretch Slim Fit Tipped Collar Polo",
+      "slug": "stretch-slim-fit-tipped-collar-polo-1003",
+      "category": "men",
+      "subcategory": "polos",
+      "price": 129.9,
+      "oldPrice": 185.57,
+      "discountPercent": 30,
+      "currency": "USD",
+      "rating": 4.8,
+      "reviewCount": 595,
+      "colors": [
+        {
+          "name": "Ecru",
+          "hex": "#efe6d3",
+          "image": "https://picsum.photos/seed/stretch-slim-fit-tipped-collar-polo-1003-ecru/800/1000"
+        },
+        {
+          "name": "Black",
+          "hex": "#111111",
+          "image": "https://picsum.photos/seed/stretch-slim-fit-tipped-collar-polo-1003-black/800/1000"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "images": [
+        "https://picsum.photos/seed/stretch-slim-fit-tipped-collar-polo-1003-1/800/1000",
+        "https://picsum.photos/seed/stretch-slim-fit-tipped-collar-polo-1003-2/800/1000",
+        "https://picsum.photos/seed/stretch-slim-fit-tipped-collar-polo-1003-3/800/1000",
+        "https://picsum.photos/seed/stretch-slim-fit-tipped-collar-polo-1003-4/800/1000"
+      ],
+      "badges": [
+        "sale"
+      ],
+      "inStock": true,
+      "stock": 8,
+      "fit": "Slim Fit",
+      "material": "Leather",
+      "description": "Stretch Slim Fit Tipped Collar Polo — polos from the men's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-04-19"
+    },
+    {
+      "id": 1004,
+      "sku": "TH-ME-1004",
+      "name": "Classic Interlock Polo",
+      "slug": "classic-interlock-polo-1004",
+      "category": "men",
+      "subcategory": "polos",
+      "price": 39.9,
+      "oldPrice": null,
+      "discountPercent": 0,
+      "currency": "USD",
+      "rating": 4.6,
+      "reviewCount": 703,
+      "colors": [
+        {
+          "name": "Sand Khaki",
+          "hex": "#c2b280",
+          "image": "https://picsum.photos/seed/classic-interlock-polo-1004-sand-khaki/800/1000"
+        },
+        {
+          "name": "Primary Red",
+          "hex": "#c8102e",
+          "image": "https://picsum.photos/seed/classic-interlock-polo-1004-primary-red/800/1000"
+        },
+        {
+          "name": "Charcoal Grey",
+          "hex": "#4a4a4a",
+          "image": "https://picsum.photos/seed/classic-interlock-polo-1004-charcoal-grey/800/1000"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "images": [
+        "https://picsum.photos/seed/classic-interlock-polo-1004-1/800/1000",
+        "https://picsum.photos/seed/classic-interlock-polo-1004-2/800/1000",
+        "https://picsum.photos/seed/classic-interlock-polo-1004-3/800/1000",
+        "https://picsum.photos/seed/classic-interlock-polo-1004-4/800/1000"
+      ],
+      "badges": [],
+      "inStock": true,
+      "stock": 77,
+      "fit": "Regular Fit",
+      "material": "Wool Blend",
+      "description": "Classic Interlock Polo — polos from the men's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-04-15"
+    },
+    {
+      "id": 1005,
+      "sku": "TH-ME-1005",
+      "name": "Organic Cotton Flannel Overshirt",
+      "slug": "organic-cotton-flannel-overshirt-1005",
+      "category": "men",
+      "subcategory": "shirts",
+      "price": 69.9,
+      "oldPrice": null,
+      "discountPercent": 0,
+      "currency": "USD",
+      "rating": 4.8,
+      "reviewCount": 828,
+      "colors": [
+        {
+          "name": "Ecru",
+          "hex": "#efe6d3",
+          "image": "https://picsum.photos/seed/organic-cotton-flannel-overshirt-1005-ecru/800/1000"
+        },
+        {
+          "name": "Navy Blazer",
+          "hex": "#1b2a41",
+          "image": "https://picsum.photos/seed/organic-cotton-flannel-overshirt-1005-navy-blazer/800/1000"
+        },
+        {
+          "name": "Sand Khaki",
+          "hex": "#c2b280",
+          "image": "https://picsum.photos/seed/organic-cotton-flannel-overshirt-1005-sand-khaki/800/1000"
+        },
+        {
+          "name": "Sky Cloud",
+          "hex": "#a8c4de",
+          "image": "https://picsum.photos/seed/organic-cotton-flannel-overshirt-1005-sky-cloud/800/1000"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "images": [
+        "https://picsum.photos/seed/organic-cotton-flannel-overshirt-1005-1/800/1000",
+        "https://picsum.photos/seed/organic-cotton-flannel-overshirt-1005-2/800/1000",
+        "https://picsum.photos/seed/organic-cotton-flannel-overshirt-1005-3/800/1000",
+        "https://picsum.photos/seed/organic-cotton-flannel-overshirt-1005-4/800/1000"
+      ],
+      "badges": [
+        "bestseller"
+      ],
+      "inStock": true,
+      "stock": 34,
+      "fit": "Slim Fit",
+      "material": "95% Cotton, 5% Elastane",
+      "description": "Organic Cotton Flannel Overshirt — shirts from the men's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-06-16"
+    },
+    {
+      "id": 1006,
+      "sku": "TH-ME-1006",
+      "name": "Tape Detail Flannel Overshirt",
+      "slug": "tape-detail-flannel-overshirt-1006",
+      "category": "men",
+      "subcategory": "shirts",
+      "price": 199.9,
+      "oldPrice": null,
+      "discountPercent": 0,
+      "currency": "USD",
+      "rating": 4.4,
+      "reviewCount": 374,
+      "colors": [
+        {
+          "name": "Primary Red",
+          "hex": "#c8102e",
+          "image": "https://picsum.photos/seed/tape-detail-flannel-overshirt-1006-primary-red/800/1000"
+        },
+        {
+          "name": "Navy Blazer",
+          "hex": "#1b2a41",
+          "image": "https://picsum.photos/seed/tape-detail-flannel-overshirt-1006-navy-blazer/800/1000"
+        },
+        {
+          "name": "Black",
+          "hex": "#111111",
+          "image": "https://picsum.photos/seed/tape-detail-flannel-overshirt-1006-black/800/1000"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "images": [
+        "https://picsum.photos/seed/tape-detail-flannel-overshirt-1006-1/800/1000",
+        "https://picsum.photos/seed/tape-detail-flannel-overshirt-1006-2/800/1000",
+        "https://picsum.photos/seed/tape-detail-flannel-overshirt-1006-3/800/1000",
+        "https://picsum.photos/seed/tape-detail-flannel-overshirt-1006-4/800/1000"
+      ],
+      "badges": [],
+      "inStock": true,
+      "stock": 17,
+      "fit": "Oversized",
+      "material": "100% Cotton",
+      "description": "Tape Detail Flannel Overshirt — shirts from the men's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-01-13"
+    },
+    {
+      "id": 1007,
+      "sku": "TH-ME-1007",
+      "name": "Monotype Crew Neck Jumper",
+      "slug": "monotype-crew-neck-jumper-1007",
+      "category": "men",
+      "subcategory": "sweaters",
+      "price": 199.9,
+      "oldPrice": null,
+      "discountPercent": 0,
+      "currency": "USD",
+      "rating": 4.0,
+      "reviewCount": 570,
+      "colors": [
+        {
+          "name": "Sky Cloud",
+          "hex": "#a8c4de",
+          "image": "https://picsum.photos/seed/monotype-crew-neck-jumper-1007-sky-cloud/800/1000"
+        },
+        {
+          "name": "Charcoal Grey",
+          "hex": "#4a4a4a",
+          "image": "https://picsum.photos/seed/monotype-crew-neck-jumper-1007-charcoal-grey/800/1000"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "images": [
+        "https://picsum.photos/seed/monotype-crew-neck-jumper-1007-1/800/1000",
+        "https://picsum.photos/seed/monotype-crew-neck-jumper-1007-2/800/1000",
+        "https://picsum.photos/seed/monotype-crew-neck-jumper-1007-3/800/1000",
+        "https://picsum.photos/seed/monotype-crew-neck-jumper-1007-4/800/1000"
+      ],
+      "badges": [],
+      "inStock": true,
+      "stock": 1,
+      "fit": "Slim Fit",
+      "material": "Leather",
+      "description": "Monotype Crew Neck Jumper — sweaters from the men's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-05-20"
+    },
+    {
+      "id": 1008,
+      "sku": "TH-ME-1008",
+      "name": "Essential Half Zip Knit",
+      "slug": "essential-half-zip-knit-1008",
+      "category": "men",
+      "subcategory": "sweaters",
+      "price": 89.9,
+      "oldPrice": 112.38,
+      "discountPercent": 20,
+      "currency": "USD",
+      "rating": 4.0,
+      "reviewCount": 658,
+      "colors": [
+        {
+          "name": "Black",
+          "hex": "#111111",
+          "image": "https://picsum.photos/seed/essential-half-zip-knit-1008-black/800/1000"
+        },
+        {
+          "name": "Ecru",
+          "hex": "#efe6d3",
+          "image": "https://picsum.photos/seed/essential-half-zip-knit-1008-ecru/800/1000"
+        },
+        {
+          "name": "Primary Red",
+          "hex": "#c8102e",
+          "image": "https://picsum.photos/seed/essential-half-zip-knit-1008-primary-red/800/1000"
+        },
+        {
+          "name": "Charcoal Grey",
+          "hex": "#4a4a4a",
+          "image": "https://picsum.photos/seed/essential-half-zip-knit-1008-charcoal-grey/800/1000"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "images": [
+        "https://picsum.photos/seed/essential-half-zip-knit-1008-1/800/1000",
+        "https://picsum.photos/seed/essential-half-zip-knit-1008-2/800/1000",
+        "https://picsum.photos/seed/essential-half-zip-knit-1008-3/800/1000",
+        "https://picsum.photos/seed/essential-half-zip-knit-1008-4/800/1000"
+      ],
+      "badges": [
+        "sale"
+      ],
+      "inStock": true,
+      "stock": 25,
+      "fit": "Regular Fit",
+      "material": "Organic Cotton Blend",
+      "description": "Essential Half Zip Knit — sweaters from the men's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-03-27"
+    },
+    {
+      "id": 1009,
+      "sku": "TH-ME-1009",
+      "name": "Flag Logo Zip Through Hoodie",
+      "slug": "flag-logo-zip-through-hoodie-1009",
+      "category": "men",
+      "subcategory": "hoodies-sweatshirts",
+      "price": 99.9,
+      "oldPrice": 142.71,
+      "discountPercent": 30,
+      "currency": "USD",
+      "rating": 3.7,
+      "reviewCount": 501,
+      "colors": [
+        {
+          "name": "Navy Blazer",
+          "hex": "#1b2a41",
+          "image": "https://picsum.photos/seed/flag-logo-zip-through-hoodie-1009-navy-blazer/800/1000"
+        },
+        {
+          "name": "Desert Sky",
+          "hex": "#0a1f44",
+          "image": "https://picsum.photos/seed/flag-logo-zip-through-hoodie-1009-desert-sky/800/1000"
+        },
+        {
+          "name": "Charcoal Grey",
+          "hex": "#4a4a4a",
+          "image": "https://picsum.photos/seed/flag-logo-zip-through-hoodie-1009-charcoal-grey/800/1000"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "images": [
+        "https://picsum.photos/seed/flag-logo-zip-through-hoodie-1009-1/800/1000",
+        "https://picsum.photos/seed/flag-logo-zip-through-hoodie-1009-2/800/1000",
+        "https://picsum.photos/seed/flag-logo-zip-through-hoodie-1009-3/800/1000",
+        "https://picsum.photos/seed/flag-logo-zip-through-hoodie-1009-4/800/1000"
+      ],
+      "badges": [
+        "sale"
+      ],
+      "inStock": true,
+      "stock": 97,
+      "fit": "Regular Fit",
+      "material": "95% Cotton, 5% Elastane",
+      "description": "Flag Logo Zip Through Hoodie — hoodies & sweatshirts from the men's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-08-27"
+    },
+    {
+      "id": 1010,
+      "sku": "TH-ME-1010",
+      "name": "Varsity Zip Through Hoodie",
+      "slug": "varsity-zip-through-hoodie-1010",
+      "category": "men",
+      "subcategory": "hoodies-sweatshirts",
+      "price": 129.9,
+      "oldPrice": null,
+      "discountPercent": 0,
+      "currency": "USD",
+      "rating": 4.5,
+      "reviewCount": 386,
+      "colors": [
+        {
+          "name": "Navy Blazer",
+          "hex": "#1b2a41",
+          "image": "https://picsum.photos/seed/varsity-zip-through-hoodie-1010-navy-blazer/800/1000"
+        },
+        {
+          "name": "Ecru",
+          "hex": "#efe6d3",
+          "image": "https://picsum.photos/seed/varsity-zip-through-hoodie-1010-ecru/800/1000"
+        },
+        {
+          "name": "Charcoal Grey",
+          "hex": "#4a4a4a",
+          "image": "https://picsum.photos/seed/varsity-zip-through-hoodie-1010-charcoal-grey/800/1000"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "images": [
+        "https://picsum.photos/seed/varsity-zip-through-hoodie-1010-1/800/1000",
+        "https://picsum.photos/seed/varsity-zip-through-hoodie-1010-2/800/1000",
+        "https://picsum.photos/seed/varsity-zip-through-hoodie-1010-3/800/1000",
+        "https://picsum.photos/seed/varsity-zip-through-hoodie-1010-4/800/1000"
+      ],
+      "badges": [],
+      "inStock": true,
+      "stock": 66,
+      "fit": "Oversized",
+      "material": "100% Cotton",
+      "description": "Varsity Zip Through Hoodie — hoodies & sweatshirts from the men's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-04-17"
+    },
+    {
+      "id": 1011,
+      "sku": "TH-ME-1011",
+      "name": "Classic Trench Coat",
+      "slug": "classic-trench-coat-1011",
+      "category": "men",
+      "subcategory": "jackets-coats",
+      "price": 29.9,
+      "oldPrice": null,
+      "discountPercent": 0,
+      "currency": "USD",
+      "rating": 3.7,
+      "reviewCount": 73,
+      "colors": [
+        {
+          "name": "Charcoal Grey",
+          "hex": "#4a4a4a",
+          "image": "https://picsum.photos/seed/classic-trench-coat-1011-charcoal-grey/800/1000"
+        },
+        {
+          "name": "Navy Blazer",
+          "hex": "#1b2a41",
+          "image": "https://picsum.photos/seed/classic-trench-coat-1011-navy-blazer/800/1000"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "images": [
+        "https://picsum.photos/seed/classic-trench-coat-1011-1/800/1000",
+        "https://picsum.photos/seed/classic-trench-coat-1011-2/800/1000",
+        "https://picsum.photos/seed/classic-trench-coat-1011-3/800/1000",
+        "https://picsum.photos/seed/classic-trench-coat-1011-4/800/1000"
+      ],
+      "badges": [
+        "new"
+      ],
+      "inStock": true,
+      "stock": 110,
+      "fit": "Relaxed Fit",
+      "material": "100% Cotton",
+      "description": "Classic Trench Coat — jackets & coats from the men's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-04-18"
+    },
+    {
+      "id": 1012,
+      "sku": "TH-ME-1012",
+      "name": "Tape Detail Padded Parka",
+      "slug": "tape-detail-padded-parka-1012",
+      "category": "men",
+      "subcategory": "jackets-coats",
+      "price": 129.9,
+      "oldPrice": 216.5,
+      "discountPercent": 40,
+      "currency": "USD",
+      "rating": 4.5,
+      "reviewCount": 366,
+      "colors": [
+        {
+          "name": "Olive",
+          "hex": "#5a5f3a",
+          "image": "https://picsum.photos/seed/tape-detail-padded-parka-1012-olive/800/1000"
+        },
+        {
+          "name": "Navy Blazer",
+          "hex": "#1b2a41",
+          "image": "https://picsum.photos/seed/tape-detail-padded-parka-1012-navy-blazer/800/1000"
+        },
+        {
+          "name": "Charcoal Grey",
+          "hex": "#4a4a4a",
+          "image": "https://picsum.photos/seed/tape-detail-padded-parka-1012-charcoal-grey/800/1000"
+        },
+        {
+          "name": "Sky Cloud",
+          "hex": "#a8c4de",
+          "image": "https://picsum.photos/seed/tape-detail-padded-parka-1012-sky-cloud/800/1000"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "images": [
+        "https://picsum.photos/seed/tape-detail-padded-parka-1012-1/800/1000",
+        "https://picsum.photos/seed/tape-detail-padded-parka-1012-2/800/1000",
+        "https://picsum.photos/seed/tape-detail-padded-parka-1012-3/800/1000",
+        "https://picsum.photos/seed/tape-detail-padded-parka-1012-4/800/1000"
+      ],
+      "badges": [
+        "sale",
+        "bestseller"
+      ],
+      "inStock": true,
+      "stock": 59,
+      "fit": "Slim Fit",
+      "material": "Leather",
+      "description": "Tape Detail Padded Parka — jackets & coats from the men's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-02-11"
+    },
+    {
+      "id": 1013,
+      "sku": "TH-ME-1013",
+      "name": "Embroidered Logo Tapered Jeans",
+      "slug": "embroidered-logo-tapered-jeans-1013",
+      "category": "men",
+      "subcategory": "jeans",
+      "price": 39.9,
+      "oldPrice": 49.87,
+      "discountPercent": 20,
+      "currency": "USD",
+      "rating": 4.9,
+      "reviewCount": 457,
+      "colors": [
+        {
+          "name": "Olive",
+          "hex": "#5a5f3a",
+          "image": "https://picsum.photos/seed/embroidered-logo-tapered-jeans-1013-olive/800/1000"
+        },
+        {
+          "name": "Primary Red",
+          "hex": "#c8102e",
+          "image": "https://picsum.photos/seed/embroidered-logo-tapered-jeans-1013-primary-red/800/1000"
+        },
+        {
+          "name": "Sky Cloud",
+          "hex": "#a8c4de",
+          "image": "https://picsum.photos/seed/embroidered-logo-tapered-jeans-1013-sky-cloud/800/1000"
+        },
+        {
+          "name": "Optic White",
+          "hex": "#ffffff",
+          "image": "https://picsum.photos/seed/embroidered-logo-tapered-jeans-1013-optic-white/800/1000"
+        }
+      ],
+      "sizes": [
+        "28/32",
+        "30/32",
+        "31/32",
+        "32/32",
+        "33/34",
+        "34/34",
+        "36/34"
+      ],
+      "images": [
+        "https://picsum.photos/seed/embroidered-logo-tapered-jeans-1013-1/800/1000",
+        "https://picsum.photos/seed/embroidered-logo-tapered-jeans-1013-2/800/1000",
+        "https://picsum.photos/seed/embroidered-logo-tapered-jeans-1013-3/800/1000",
+        "https://picsum.photos/seed/embroidered-logo-tapered-jeans-1013-4/800/1000"
+      ],
+      "badges": [
+        "sale"
+      ],
+      "inStock": true,
+      "stock": 109,
+      "fit": "Slim Fit",
+      "material": "100% Cotton",
+      "description": "Embroidered Logo Tapered Jeans — jeans from the men's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-01-12"
+    },
+    {
+      "id": 1014,
+      "sku": "TH-ME-1014",
+      "name": "Heritage Straight Fit Jeans",
+      "slug": "heritage-straight-fit-jeans-1014",
+      "category": "men",
+      "subcategory": "jeans",
+      "price": 89.9,
+      "oldPrice": null,
+      "discountPercent": 0,
+      "currency": "USD",
+      "rating": 4.1,
+      "reviewCount": 806,
+      "colors": [
+        {
+          "name": "Sky Cloud",
+          "hex": "#a8c4de",
+          "image": "https://picsum.photos/seed/heritage-straight-fit-jeans-1014-sky-cloud/800/1000"
+        },
+        {
+          "name": "Desert Sky",
+          "hex": "#0a1f44",
+          "image": "https://picsum.photos/seed/heritage-straight-fit-jeans-1014-desert-sky/800/1000"
+        }
+      ],
+      "sizes": [
+        "28/32",
+        "30/32",
+        "31/32",
+        "32/32",
+        "33/34",
+        "34/34",
+        "36/34"
+      ],
+      "images": [
+        "https://picsum.photos/seed/heritage-straight-fit-jeans-1014-1/800/1000",
+        "https://picsum.photos/seed/heritage-straight-fit-jeans-1014-2/800/1000",
+        "https://picsum.photos/seed/heritage-straight-fit-jeans-1014-3/800/1000",
+        "https://picsum.photos/seed/heritage-straight-fit-jeans-1014-4/800/1000"
+      ],
+      "badges": [
+        "new",
+        "bestseller"
+      ],
+      "inStock": true,
+      "stock": 36,
+      "fit": "Oversized",
+      "material": "Leather",
+      "description": "Heritage Straight Fit Jeans — jeans from the men's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-08-14"
+    },
+    {
+      "id": 1015,
+      "sku": "TH-ME-1015",
+      "name": "Signature Stripe Cargo Trousers",
+      "slug": "signature-stripe-cargo-trousers-1015",
+      "category": "men",
+      "subcategory": "trousers-chinos",
+      "price": 59.9,
+      "oldPrice": null,
+      "discountPercent": 0,
+      "currency": "USD",
+      "rating": 4.9,
+      "reviewCount": 547,
+      "colors": [
+        {
+          "name": "Ecru",
+          "hex": "#efe6d3",
+          "image": "https://picsum.photos/seed/signature-stripe-cargo-trousers-1015-ecru/800/1000"
+        },
+        {
+          "name": "Desert Sky",
+          "hex": "#0a1f44",
+          "image": "https://picsum.photos/seed/signature-stripe-cargo-trousers-1015-desert-sky/800/1000"
+        },
+        {
+          "name": "Sand Khaki",
+          "hex": "#c2b280",
+          "image": "https://picsum.photos/seed/signature-stripe-cargo-trousers-1015-sand-khaki/800/1000"
+        },
+        {
+          "name": "Charcoal Grey",
+          "hex": "#4a4a4a",
+          "image": "https://picsum.photos/seed/signature-stripe-cargo-trousers-1015-charcoal-grey/800/1000"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "images": [
+        "https://picsum.photos/seed/signature-stripe-cargo-trousers-1015-1/800/1000",
+        "https://picsum.photos/seed/signature-stripe-cargo-trousers-1015-2/800/1000",
+        "https://picsum.photos/seed/signature-stripe-cargo-trousers-1015-3/800/1000",
+        "https://picsum.photos/seed/signature-stripe-cargo-trousers-1015-4/800/1000"
+      ],
+      "badges": [
+        "new"
+      ],
+      "inStock": true,
+      "stock": 65,
+      "fit": "Slim Fit",
+      "material": "95% Cotton, 5% Elastane",
+      "description": "Signature Stripe Cargo Trousers — trousers & chinos from the men's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-02-12"
+    },
+    {
+      "id": 1016,
+      "sku": "TH-ME-1016",
+      "name": "Heritage Cargo Trousers",
+      "slug": "heritage-cargo-trousers-1016",
+      "category": "men",
+      "subcategory": "trousers-chinos",
+      "price": 39.9,
+      "oldPrice": null,
+      "discountPercent": 0,
+      "currency": "USD",
+      "rating": 4.0,
+      "reviewCount": 271,
+      "colors": [
+        {
+          "name": "Navy Blazer",
+          "hex": "#1b2a41",
+          "image": "https://picsum.photos/seed/heritage-cargo-trousers-1016-navy-blazer/800/1000"
+        },
+        {
+          "name": "Desert Sky",
+          "hex": "#0a1f44",
+          "image": "https://picsum.photos/seed/heritage-cargo-trousers-1016-desert-sky/800/1000"
+        },
+        {
+          "name": "Optic White",
+          "hex": "#ffffff",
+          "image": "https://picsum.photos/seed/heritage-cargo-trousers-1016-optic-white/800/1000"
+        },
+        {
+          "name": "Charcoal Grey",
+          "hex": "#4a4a4a",
+          "image": "https://picsum.photos/seed/heritage-cargo-trousers-1016-charcoal-grey/800/1000"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "images": [
+        "https://picsum.photos/seed/heritage-cargo-trousers-1016-1/800/1000",
+        "https://picsum.photos/seed/heritage-cargo-trousers-1016-2/800/1000",
+        "https://picsum.photos/seed/heritage-cargo-trousers-1016-3/800/1000",
+        "https://picsum.photos/seed/heritage-cargo-trousers-1016-4/800/1000"
+      ],
+      "badges": [],
+      "inStock": true,
+      "stock": 91,
+      "fit": "Relaxed Fit",
+      "material": "95% Cotton, 5% Elastane",
+      "description": "Heritage Cargo Trousers — trousers & chinos from the men's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-05-22"
+    },
+    {
+      "id": 1017,
+      "sku": "TH-ME-1017",
+      "name": "Monotype Sweat Shorts",
+      "slug": "monotype-sweat-shorts-1017",
+      "category": "men",
+      "subcategory": "shorts",
+      "price": 99.9,
+      "oldPrice": 124.88,
+      "discountPercent": 20,
+      "currency": "USD",
+      "rating": 4.0,
+      "reviewCount": 361,
+      "colors": [
+        {
+          "name": "Olive",
+          "hex": "#5a5f3a",
+          "image": "https://picsum.photos/seed/monotype-sweat-shorts-1017-olive/800/1000"
+        },
+        {
+          "name": "Optic White",
+          "hex": "#ffffff",
+          "image": "https://picsum.photos/seed/monotype-sweat-shorts-1017-optic-white/800/1000"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "images": [
+        "https://picsum.photos/seed/monotype-sweat-shorts-1017-1/800/1000",
+        "https://picsum.photos/seed/monotype-sweat-shorts-1017-2/800/1000",
+        "https://picsum.photos/seed/monotype-sweat-shorts-1017-3/800/1000",
+        "https://picsum.photos/seed/monotype-sweat-shorts-1017-4/800/1000"
+      ],
+      "badges": [
+        "sale",
+        "new"
+      ],
+      "inStock": true,
+      "stock": 112,
+      "fit": "Regular Fit",
+      "material": "Organic Cotton Blend",
+      "description": "Monotype Sweat Shorts — shorts from the men's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-05-15"
+    },
+    {
+      "id": 1018,
+      "sku": "TH-ME-1018",
+      "name": "Organic Cotton Sweat Shorts",
+      "slug": "organic-cotton-sweat-shorts-1018",
+      "category": "men",
+      "subcategory": "shorts",
+      "price": 149.9,
+      "oldPrice": null,
+      "discountPercent": 0,
+      "currency": "USD",
+      "rating": 4.0,
+      "reviewCount": 113,
+      "colors": [
+        {
+          "name": "Ecru",
+          "hex": "#efe6d3",
+          "image": "https://picsum.photos/seed/organic-cotton-sweat-shorts-1018-ecru/800/1000"
+        },
+        {
+          "name": "Desert Sky",
+          "hex": "#0a1f44",
+          "image": "https://picsum.photos/seed/organic-cotton-sweat-shorts-1018-desert-sky/800/1000"
+        },
+        {
+          "name": "Black",
+          "hex": "#111111",
+          "image": "https://picsum.photos/seed/organic-cotton-sweat-shorts-1018-black/800/1000"
+        },
+        {
+          "name": "Sand Khaki",
+          "hex": "#c2b280",
+          "image": "https://picsum.photos/seed/organic-cotton-sweat-shorts-1018-sand-khaki/800/1000"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "images": [
+        "https://picsum.photos/seed/organic-cotton-sweat-shorts-1018-1/800/1000",
+        "https://picsum.photos/seed/organic-cotton-sweat-shorts-1018-2/800/1000",
+        "https://picsum.photos/seed/organic-cotton-sweat-shorts-1018-3/800/1000",
+        "https://picsum.photos/seed/organic-cotton-sweat-shorts-1018-4/800/1000"
+      ],
+      "badges": [
+        "new"
+      ],
+      "inStock": true,
+      "stock": 19,
+      "fit": "Relaxed Fit",
+      "material": "Organic Cotton Blend",
+      "description": "Organic Cotton Sweat Shorts — shorts from the men's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-04-20"
+    },
+    {
+      "id": 1019,
+      "sku": "TH-ME-1019",
+      "name": "Signature Stripe Chunky Runners",
+      "slug": "signature-stripe-chunky-runners-1019",
+      "category": "men",
+      "subcategory": "shoes",
+      "price": 129.9,
+      "oldPrice": null,
+      "discountPercent": 0,
+      "currency": "USD",
+      "rating": 4.1,
+      "reviewCount": 137,
+      "colors": [
+        {
+          "name": "Optic White",
+          "hex": "#ffffff",
+          "image": "https://picsum.photos/seed/signature-stripe-chunky-runners-1019-optic-white/800/1000"
+        },
+        {
+          "name": "Sky Cloud",
+          "hex": "#a8c4de",
+          "image": "https://picsum.photos/seed/signature-stripe-chunky-runners-1019-sky-cloud/800/1000"
+        }
+      ],
+      "sizes": [
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "images": [
+        "https://picsum.photos/seed/signature-stripe-chunky-runners-1019-1/800/1000",
+        "https://picsum.photos/seed/signature-stripe-chunky-runners-1019-2/800/1000",
+        "https://picsum.photos/seed/signature-stripe-chunky-runners-1019-3/800/1000",
+        "https://picsum.photos/seed/signature-stripe-chunky-runners-1019-4/800/1000"
+      ],
+      "badges": [
+        "bestseller"
+      ],
+      "inStock": true,
+      "stock": 33,
+      "fit": "Regular Fit",
+      "material": "Leather",
+      "description": "Signature Stripe Chunky Runners — shoes from the men's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-08-27"
+    },
+    {
+      "id": 1020,
+      "sku": "TH-ME-1020",
+      "name": "Relaxed Fit Boots",
+      "slug": "relaxed-fit-boots-1020",
+      "category": "men",
+      "subcategory": "shoes",
+      "price": 29.9,
+      "oldPrice": 49.83,
+      "discountPercent": 40,
+      "currency": "USD",
+      "rating": 3.8,
+      "reviewCount": 134,
+      "colors": [
+        {
+          "name": "Ecru",
+          "hex": "#efe6d3",
+          "image": "https://picsum.photos/seed/relaxed-fit-boots-1020-ecru/800/1000"
+        },
+        {
+          "name": "Desert Sky",
+          "hex": "#0a1f44",
+          "image": "https://picsum.photos/seed/relaxed-fit-boots-1020-desert-sky/800/1000"
+        }
+      ],
+      "sizes": [
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "images": [
+        "https://picsum.photos/seed/relaxed-fit-boots-1020-1/800/1000",
+        "https://picsum.photos/seed/relaxed-fit-boots-1020-2/800/1000",
+        "https://picsum.photos/seed/relaxed-fit-boots-1020-3/800/1000",
+        "https://picsum.photos/seed/relaxed-fit-boots-1020-4/800/1000"
+      ],
+      "badges": [
+        "sale"
+      ],
+      "inStock": true,
+      "stock": 46,
+      "fit": "Slim Fit",
+      "material": "Organic Cotton Blend",
+      "description": "Relaxed Fit Boots — shoes from the men's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-04-17"
+    },
+    {
+      "id": 1021,
+      "sku": "TH-ME-1021",
+      "name": "Essential Wool Beanie",
+      "slug": "essential-wool-beanie-1021",
+      "category": "men",
+      "subcategory": "accessories",
+      "price": 129.9,
+      "oldPrice": null,
+      "discountPercent": 0,
+      "currency": "USD",
+      "rating": 4.7,
+      "reviewCount": 426,
+      "colors": [
+        {
+          "name": "Charcoal Grey",
+          "hex": "#4a4a4a",
+          "image": "https://picsum.photos/seed/essential-wool-beanie-1021-charcoal-grey/800/1000"
+        },
+        {
+          "name": "Primary Red",
+          "hex": "#c8102e",
+          "image": "https://picsum.photos/seed/essential-wool-beanie-1021-primary-red/800/1000"
+        },
+        {
+          "name": "Navy Blazer",
+          "hex": "#1b2a41",
+          "image": "https://picsum.photos/seed/essential-wool-beanie-1021-navy-blazer/800/1000"
+        }
+      ],
+      "sizes": [
+        "One Size"
+      ],
+      "images": [
+        "https://picsum.photos/seed/essential-wool-beanie-1021-1/800/1000",
+        "https://picsum.photos/seed/essential-wool-beanie-1021-2/800/1000",
+        "https://picsum.photos/seed/essential-wool-beanie-1021-3/800/1000",
+        "https://picsum.photos/seed/essential-wool-beanie-1021-4/800/1000"
+      ],
+      "badges": [],
+      "inStock": true,
+      "stock": 94,
+      "fit": "Relaxed Fit",
+      "material": "Recycled Polyester",
+      "description": "Essential Wool Beanie — accessories from the men's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-04-18"
+    },
+    {
+      "id": 1022,
+      "sku": "TH-ME-1022",
+      "name": "Varsity Sunglasses",
+      "slug": "varsity-sunglasses-1022",
+      "category": "men",
+      "subcategory": "accessories",
+      "price": 39.9,
+      "oldPrice": null,
+      "discountPercent": 0,
+      "currency": "USD",
+      "rating": 4.1,
+      "reviewCount": 844,
+      "colors": [
+        {
+          "name": "Olive",
+          "hex": "#5a5f3a",
+          "image": "https://picsum.photos/seed/varsity-sunglasses-1022-olive/800/1000"
+        },
+        {
+          "name": "Navy Blazer",
+          "hex": "#1b2a41",
+          "image": "https://picsum.photos/seed/varsity-sunglasses-1022-navy-blazer/800/1000"
+        }
+      ],
+      "sizes": [
+        "One Size"
+      ],
+      "images": [
+        "https://picsum.photos/seed/varsity-sunglasses-1022-1/800/1000",
+        "https://picsum.photos/seed/varsity-sunglasses-1022-2/800/1000",
+        "https://picsum.photos/seed/varsity-sunglasses-1022-3/800/1000",
+        "https://picsum.photos/seed/varsity-sunglasses-1022-4/800/1000"
+      ],
+      "badges": [
+        "new"
+      ],
+      "inStock": true,
+      "stock": 29,
+      "fit": "Regular Fit",
+      "material": "100% Cotton",
+      "description": "Varsity Sunglasses — accessories from the men's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-04-22"
+    },
+    {
+      "id": 1023,
+      "sku": "TH-ME-1023",
+      "name": "Archive Pyjama Bottoms",
+      "slug": "archive-pyjama-bottoms-1023",
+      "category": "men",
+      "subcategory": "underwear",
+      "price": 39.9,
+      "oldPrice": null,
+      "discountPercent": 0,
+      "currency": "USD",
+      "rating": 4.1,
+      "reviewCount": 32,
+      "colors": [
+        {
+          "name": "Sand Khaki",
+          "hex": "#c2b280",
+          "image": "https://picsum.photos/seed/archive-pyjama-bottoms-1023-sand-khaki/800/1000"
+        },
+        {
+          "name": "Ecru",
+          "hex": "#efe6d3",
+          "image": "https://picsum.photos/seed/archive-pyjama-bottoms-1023-ecru/800/1000"
+        },
+        {
+          "name": "Sky Cloud",
+          "hex": "#a8c4de",
+          "image": "https://picsum.photos/seed/archive-pyjama-bottoms-1023-sky-cloud/800/1000"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "images": [
+        "https://picsum.photos/seed/archive-pyjama-bottoms-1023-1/800/1000",
+        "https://picsum.photos/seed/archive-pyjama-bottoms-1023-2/800/1000",
+        "https://picsum.photos/seed/archive-pyjama-bottoms-1023-3/800/1000",
+        "https://picsum.photos/seed/archive-pyjama-bottoms-1023-4/800/1000"
+      ],
+      "badges": [],
+      "inStock": true,
+      "stock": 33,
+      "fit": "Regular Fit",
+      "material": "Wool Blend",
+      "description": "Archive Pyjama Bottoms — underwear & loungewear from the men's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-05-11"
+    },
+    {
+      "id": 1024,
+      "sku": "TH-ME-1024",
+      "name": "Essential Sock 5-Pack",
+      "slug": "essential-sock-5-pack-1024",
+      "category": "men",
+      "subcategory": "underwear",
+      "price": 79.9,
+      "oldPrice": null,
+      "discountPercent": 0,
+      "currency": "USD",
+      "rating": 4.0,
+      "reviewCount": 729,
+      "colors": [
+        {
+          "name": "Sky Cloud",
+          "hex": "#a8c4de",
+          "image": "https://picsum.photos/seed/essential-sock-5-pack-1024-sky-cloud/800/1000"
+        },
+        {
+          "name": "Ecru",
+          "hex": "#efe6d3",
+          "image": "https://picsum.photos/seed/essential-sock-5-pack-1024-ecru/800/1000"
+        },
+        {
+          "name": "Optic White",
+          "hex": "#ffffff",
+          "image": "https://picsum.photos/seed/essential-sock-5-pack-1024-optic-white/800/1000"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "images": [
+        "https://picsum.photos/seed/essential-sock-5-pack-1024-1/800/1000",
+        "https://picsum.photos/seed/essential-sock-5-pack-1024-2/800/1000",
+        "https://picsum.photos/seed/essential-sock-5-pack-1024-3/800/1000",
+        "https://picsum.photos/seed/essential-sock-5-pack-1024-4/800/1000"
+      ],
+      "badges": [],
+      "inStock": true,
+      "stock": 66,
+      "fit": "Regular Fit",
+      "material": "Organic Cotton Blend",
+      "description": "Essential Sock 5-Pack — underwear & loungewear from the men's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-07-12"
+    },
+    {
+      "id": 1025,
+      "sku": "TH-WO-1025",
+      "name": "Archive V-Neck T-Shirt",
+      "slug": "archive-v-neck-t-shirt-1025",
+      "category": "women",
+      "subcategory": "t-shirts",
+      "price": 199.9,
+      "oldPrice": null,
+      "discountPercent": 0,
+      "currency": "USD",
+      "rating": 4.0,
+      "reviewCount": 134,
+      "colors": [
+        {
+          "name": "Black",
+          "hex": "#111111",
+          "image": "https://picsum.photos/seed/archive-v-neck-t-shirt-1025-black/800/1000"
+        },
+        {
+          "name": "Ecru",
+          "hex": "#efe6d3",
+          "image": "https://picsum.photos/seed/archive-v-neck-t-shirt-1025-ecru/800/1000"
+        },
+        {
+          "name": "Charcoal Grey",
+          "hex": "#4a4a4a",
+          "image": "https://picsum.photos/seed/archive-v-neck-t-shirt-1025-charcoal-grey/800/1000"
+        },
+        {
+          "name": "Sand Khaki",
+          "hex": "#c2b280",
+          "image": "https://picsum.photos/seed/archive-v-neck-t-shirt-1025-sand-khaki/800/1000"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "images": [
+        "https://picsum.photos/seed/archive-v-neck-t-shirt-1025-1/800/1000",
+        "https://picsum.photos/seed/archive-v-neck-t-shirt-1025-2/800/1000",
+        "https://picsum.photos/seed/archive-v-neck-t-shirt-1025-3/800/1000",
+        "https://picsum.photos/seed/archive-v-neck-t-shirt-1025-4/800/1000"
+      ],
+      "badges": [],
+      "inStock": true,
+      "stock": 85,
+      "fit": "Oversized",
+      "material": "Leather",
+      "description": "Archive V-Neck T-Shirt — t-shirts from the women's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-03-28"
+    },
+    {
+      "id": 1026,
+      "sku": "TH-WO-1026",
+      "name": "Global Stripe Long Sleeve Tee",
+      "slug": "global-stripe-long-sleeve-tee-1026",
+      "category": "women",
+      "subcategory": "t-shirts",
+      "price": 129.9,
+      "oldPrice": null,
+      "discountPercent": 0,
+      "currency": "USD",
+      "rating": 4.1,
+      "reviewCount": 456,
+      "colors": [
+        {
+          "name": "Black",
+          "hex": "#111111",
+          "image": "https://picsum.photos/seed/global-stripe-long-sleeve-tee-1026-black/800/1000"
+        },
+        {
+          "name": "Navy Blazer",
+          "hex": "#1b2a41",
+          "image": "https://picsum.photos/seed/global-stripe-long-sleeve-tee-1026-navy-blazer/800/1000"
+        },
+        {
+          "name": "Sky Cloud",
+          "hex": "#a8c4de",
+          "image": "https://picsum.photos/seed/global-stripe-long-sleeve-tee-1026-sky-cloud/800/1000"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "images": [
+        "https://picsum.photos/seed/global-stripe-long-sleeve-tee-1026-1/800/1000",
+        "https://picsum.photos/seed/global-stripe-long-sleeve-tee-1026-2/800/1000",
+        "https://picsum.photos/seed/global-stripe-long-sleeve-tee-1026-3/800/1000",
+        "https://picsum.photos/seed/global-stripe-long-sleeve-tee-1026-4/800/1000"
+      ],
+      "badges": [],
+      "inStock": true,
+      "stock": 27,
+      "fit": "Oversized",
+      "material": "Leather",
+      "description": "Global Stripe Long Sleeve Tee — t-shirts from the women's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-03-12"
+    },
+    {
+      "id": 1027,
+      "sku": "TH-WO-1027",
+      "name": "Global Stripe Cropped Top",
+      "slug": "global-stripe-cropped-top-1027",
+      "category": "women",
+      "subcategory": "tops-blouses",
+      "price": 39.9,
+      "oldPrice": null,
+      "discountPercent": 0,
+      "currency": "USD",
+      "rating": 3.7,
+      "reviewCount": 490,
+      "colors": [
+        {
+          "name": "Black",
+          "hex": "#111111",
+          "image": "https://picsum.photos/seed/global-stripe-cropped-top-1027-black/800/1000"
+        },
+        {
+          "name": "Navy Blazer",
+          "hex": "#1b2a41",
+          "image": "https://picsum.photos/seed/global-stripe-cropped-top-1027-navy-blazer/800/1000"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "images": [
+        "https://picsum.photos/seed/global-stripe-cropped-top-1027-1/800/1000",
+        "https://picsum.photos/seed/global-stripe-cropped-top-1027-2/800/1000",
+        "https://picsum.photos/seed/global-stripe-cropped-top-1027-3/800/1000",
+        "https://picsum.photos/seed/global-stripe-cropped-top-1027-4/800/1000"
+      ],
+      "badges": [
+        "bestseller"
+      ],
+      "inStock": true,
+      "stock": 98,
+      "fit": "Slim Fit",
+      "material": "Recycled Polyester",
+      "description": "Global Stripe Cropped Top — tops & blouses from the women's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-07-28"
+    },
+    {
+      "id": 1028,
+      "sku": "TH-WO-1028",
+      "name": "Signature Stripe Wrap Blouse",
+      "slug": "signature-stripe-wrap-blouse-1028",
+      "category": "women",
+      "subcategory": "tops-blouses",
+      "price": 99.9,
+      "oldPrice": null,
+      "discountPercent": 0,
+      "currency": "USD",
+      "rating": 4.7,
+      "reviewCount": 716,
+      "colors": [
+        {
+          "name": "Desert Sky",
+          "hex": "#0a1f44",
+          "image": "https://picsum.photos/seed/signature-stripe-wrap-blouse-1028-desert-sky/800/1000"
+        },
+        {
+          "name": "Optic White",
+          "hex": "#ffffff",
+          "image": "https://picsum.photos/seed/signature-stripe-wrap-blouse-1028-optic-white/800/1000"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "images": [
+        "https://picsum.photos/seed/signature-stripe-wrap-blouse-1028-1/800/1000",
+        "https://picsum.photos/seed/signature-stripe-wrap-blouse-1028-2/800/1000",
+        "https://picsum.photos/seed/signature-stripe-wrap-blouse-1028-3/800/1000",
+        "https://picsum.photos/seed/signature-stripe-wrap-blouse-1028-4/800/1000"
+      ],
+      "badges": [],
+      "inStock": true,
+      "stock": 6,
+      "fit": "Regular Fit",
+      "material": "100% Cotton",
+      "description": "Signature Stripe Wrap Blouse — tops & blouses from the women's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-08-14"
+    },
+    {
+      "id": 1029,
+      "sku": "TH-WO-1029",
+      "name": "Organic Cotton Polo Dress",
+      "slug": "organic-cotton-polo-dress-1029",
+      "category": "women",
+      "subcategory": "dresses",
+      "price": 99.9,
+      "oldPrice": null,
+      "discountPercent": 0,
+      "currency": "USD",
+      "rating": 4.0,
+      "reviewCount": 257,
+      "colors": [
+        {
+          "name": "Ecru",
+          "hex": "#efe6d3",
+          "image": "https://picsum.photos/seed/organic-cotton-polo-dress-1029-ecru/800/1000"
+        },
+        {
+          "name": "Sky Cloud",
+          "hex": "#a8c4de",
+          "image": "https://picsum.photos/seed/organic-cotton-polo-dress-1029-sky-cloud/800/1000"
+        },
+        {
+          "name": "Olive",
+          "hex": "#5a5f3a",
+          "image": "https://picsum.photos/seed/organic-cotton-polo-dress-1029-olive/800/1000"
+        },
+        {
+          "name": "Optic White",
+          "hex": "#ffffff",
+          "image": "https://picsum.photos/seed/organic-cotton-polo-dress-1029-optic-white/800/1000"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "images": [
+        "https://picsum.photos/seed/organic-cotton-polo-dress-1029-1/800/1000",
+        "https://picsum.photos/seed/organic-cotton-polo-dress-1029-2/800/1000",
+        "https://picsum.photos/seed/organic-cotton-polo-dress-1029-3/800/1000",
+        "https://picsum.photos/seed/organic-cotton-polo-dress-1029-4/800/1000"
+      ],
+      "badges": [],
+      "inStock": true,
+      "stock": 35,
+      "fit": "Oversized",
+      "material": "Leather",
+      "description": "Organic Cotton Polo Dress — dresses from the women's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-04-18"
+    },
+    {
+      "id": 1030,
+      "sku": "TH-WO-1030",
+      "name": "Organic Cotton Midi Shirt Dress",
+      "slug": "organic-cotton-midi-shirt-dress-1030",
+      "category": "women",
+      "subcategory": "dresses",
+      "price": 249.9,
+      "oldPrice": 357.0,
+      "discountPercent": 30,
+      "currency": "USD",
+      "rating": 4.6,
+      "reviewCount": 727,
+      "colors": [
+        {
+          "name": "Sand Khaki",
+          "hex": "#c2b280",
+          "image": "https://picsum.photos/seed/organic-cotton-midi-shirt-dress-1030-sand-khaki/800/1000"
+        },
+        {
+          "name": "Ecru",
+          "hex": "#efe6d3",
+          "image": "https://picsum.photos/seed/organic-cotton-midi-shirt-dress-1030-ecru/800/1000"
+        },
+        {
+          "name": "Optic White",
+          "hex": "#ffffff",
+          "image": "https://picsum.photos/seed/organic-cotton-midi-shirt-dress-1030-optic-white/800/1000"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "images": [
+        "https://picsum.photos/seed/organic-cotton-midi-shirt-dress-1030-1/800/1000",
+        "https://picsum.photos/seed/organic-cotton-midi-shirt-dress-1030-2/800/1000",
+        "https://picsum.photos/seed/organic-cotton-midi-shirt-dress-1030-3/800/1000",
+        "https://picsum.photos/seed/organic-cotton-midi-shirt-dress-1030-4/800/1000"
+      ],
+      "badges": [
+        "sale",
+        "new"
+      ],
+      "inStock": true,
+      "stock": 53,
+      "fit": "Oversized",
+      "material": "Organic Cotton Blend",
+      "description": "Organic Cotton Midi Shirt Dress — dresses from the women's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-08-23"
+    },
+    {
+      "id": 1031,
+      "sku": "TH-WO-1031",
+      "name": "Stretch Slim Fit Cable Knit Cardigan",
+      "slug": "stretch-slim-fit-cable-knit-cardigan-1031",
+      "category": "women",
+      "subcategory": "knitwear",
+      "price": 89.9,
+      "oldPrice": null,
+      "discountPercent": 0,
+      "currency": "USD",
+      "rating": 4.1,
+      "reviewCount": 859,
+      "colors": [
+        {
+          "name": "Desert Sky",
+          "hex": "#0a1f44",
+          "image": "https://picsum.photos/seed/stretch-slim-fit-cable-knit-cardigan-1031-desert-sky/800/1000"
+        },
+        {
+          "name": "Sky Cloud",
+          "hex": "#a8c4de",
+          "image": "https://picsum.photos/seed/stretch-slim-fit-cable-knit-cardigan-1031-sky-cloud/800/1000"
+        },
+        {
+          "name": "Olive",
+          "hex": "#5a5f3a",
+          "image": "https://picsum.photos/seed/stretch-slim-fit-cable-knit-cardigan-1031-olive/800/1000"
+        },
+        {
+          "name": "Charcoal Grey",
+          "hex": "#4a4a4a",
+          "image": "https://picsum.photos/seed/stretch-slim-fit-cable-knit-cardigan-1031-charcoal-grey/800/1000"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "images": [
+        "https://picsum.photos/seed/stretch-slim-fit-cable-knit-cardigan-1031-1/800/1000",
+        "https://picsum.photos/seed/stretch-slim-fit-cable-knit-cardigan-1031-2/800/1000",
+        "https://picsum.photos/seed/stretch-slim-fit-cable-knit-cardigan-1031-3/800/1000",
+        "https://picsum.photos/seed/stretch-slim-fit-cable-knit-cardigan-1031-4/800/1000"
+      ],
+      "badges": [],
+      "inStock": true,
+      "stock": 95,
+      "fit": "Regular Fit",
+      "material": "Recycled Polyester",
+      "description": "Stretch Slim Fit Cable Knit Cardigan — knitwear from the women's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-04-18"
+    },
+    {
+      "id": 1032,
+      "sku": "TH-WO-1032",
+      "name": "Relaxed Fit Crew Neck Jumper",
+      "slug": "relaxed-fit-crew-neck-jumper-1032",
+      "category": "women",
+      "subcategory": "knitwear",
+      "price": 29.9,
+      "oldPrice": null,
+      "discountPercent": 0,
+      "currency": "USD",
+      "rating": 4.9,
+      "reviewCount": 610,
+      "colors": [
+        {
+          "name": "Sky Cloud",
+          "hex": "#a8c4de",
+          "image": "https://picsum.photos/seed/relaxed-fit-crew-neck-jumper-1032-sky-cloud/800/1000"
+        },
+        {
+          "name": "Primary Red",
+          "hex": "#c8102e",
+          "image": "https://picsum.photos/seed/relaxed-fit-crew-neck-jumper-1032-primary-red/800/1000"
+        },
+        {
+          "name": "Olive",
+          "hex": "#5a5f3a",
+          "image": "https://picsum.photos/seed/relaxed-fit-crew-neck-jumper-1032-olive/800/1000"
+        },
+        {
+          "name": "Optic White",
+          "hex": "#ffffff",
+          "image": "https://picsum.photos/seed/relaxed-fit-crew-neck-jumper-1032-optic-white/800/1000"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "images": [
+        "https://picsum.photos/seed/relaxed-fit-crew-neck-jumper-1032-1/800/1000",
+        "https://picsum.photos/seed/relaxed-fit-crew-neck-jumper-1032-2/800/1000",
+        "https://picsum.photos/seed/relaxed-fit-crew-neck-jumper-1032-3/800/1000",
+        "https://picsum.photos/seed/relaxed-fit-crew-neck-jumper-1032-4/800/1000"
+      ],
+      "badges": [],
+      "inStock": true,
+      "stock": 3,
+      "fit": "Slim Fit",
+      "material": "Leather",
+      "description": "Relaxed Fit Crew Neck Jumper — knitwear from the women's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-07-14"
+    },
+    {
+      "id": 1033,
+      "sku": "TH-WO-1033",
+      "name": "Organic Cotton Crew Neck Sweatshirt",
+      "slug": "organic-cotton-crew-neck-sweatshirt-1033",
+      "category": "women",
+      "subcategory": "hoodies-sweatshirts",
+      "price": 29.9,
+      "oldPrice": 42.71,
+      "discountPercent": 30,
+      "currency": "USD",
+      "rating": 4.0,
+      "reviewCount": 855,
+      "colors": [
+        {
+          "name": "Olive",
+          "hex": "#5a5f3a",
+          "image": "https://picsum.photos/seed/organic-cotton-crew-neck-sweatshirt-1033-olive/800/1000"
+        },
+        {
+          "name": "Sand Khaki",
+          "hex": "#c2b280",
+          "image": "https://picsum.photos/seed/organic-cotton-crew-neck-sweatshirt-1033-sand-khaki/800/1000"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "images": [
+        "https://picsum.photos/seed/organic-cotton-crew-neck-sweatshirt-1033-1/800/1000",
+        "https://picsum.photos/seed/organic-cotton-crew-neck-sweatshirt-1033-2/800/1000",
+        "https://picsum.photos/seed/organic-cotton-crew-neck-sweatshirt-1033-3/800/1000",
+        "https://picsum.photos/seed/organic-cotton-crew-neck-sweatshirt-1033-4/800/1000"
+      ],
+      "badges": [
+        "sale"
+      ],
+      "inStock": true,
+      "stock": 106,
+      "fit": "Slim Fit",
+      "material": "Recycled Polyester",
+      "description": "Organic Cotton Crew Neck Sweatshirt — hoodies & sweatshirts from the women's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-01-27"
+    },
+    {
+      "id": 1034,
+      "sku": "TH-WO-1034",
+      "name": "Stretch Slim Fit Zip Through Hoodie",
+      "slug": "stretch-slim-fit-zip-through-hoodie-1034",
+      "category": "women",
+      "subcategory": "hoodies-sweatshirts",
+      "price": 59.9,
+      "oldPrice": null,
+      "discountPercent": 0,
+      "currency": "USD",
+      "rating": 3.9,
+      "reviewCount": 488,
+      "colors": [
+        {
+          "name": "Desert Sky",
+          "hex": "#0a1f44",
+          "image": "https://picsum.photos/seed/stretch-slim-fit-zip-through-hoodie-1034-desert-sky/800/1000"
+        },
+        {
+          "name": "Charcoal Grey",
+          "hex": "#4a4a4a",
+          "image": "https://picsum.photos/seed/stretch-slim-fit-zip-through-hoodie-1034-charcoal-grey/800/1000"
+        },
+        {
+          "name": "Navy Blazer",
+          "hex": "#1b2a41",
+          "image": "https://picsum.photos/seed/stretch-slim-fit-zip-through-hoodie-1034-navy-blazer/800/1000"
+        },
+        {
+          "name": "Optic White",
+          "hex": "#ffffff",
+          "image": "https://picsum.photos/seed/stretch-slim-fit-zip-through-hoodie-1034-optic-white/800/1000"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "images": [
+        "https://picsum.photos/seed/stretch-slim-fit-zip-through-hoodie-1034-1/800/1000",
+        "https://picsum.photos/seed/stretch-slim-fit-zip-through-hoodie-1034-2/800/1000",
+        "https://picsum.photos/seed/stretch-slim-fit-zip-through-hoodie-1034-3/800/1000",
+        "https://picsum.photos/seed/stretch-slim-fit-zip-through-hoodie-1034-4/800/1000"
+      ],
+      "badges": [],
+      "inStock": true,
+      "stock": 72,
+      "fit": "Regular Fit",
+      "material": "Recycled Polyester",
+      "description": "Stretch Slim Fit Zip Through Hoodie — hoodies & sweatshirts from the women's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-05-21"
+    },
+    {
+      "id": 1035,
+      "sku": "TH-WO-1035",
+      "name": "Varsity Varsity Jacket",
+      "slug": "varsity-varsity-jacket-1035",
+      "category": "women",
+      "subcategory": "jackets-coats",
+      "price": 149.9,
+      "oldPrice": null,
+      "discountPercent": 0,
+      "currency": "USD",
+      "rating": 4.4,
+      "reviewCount": 388,
+      "colors": [
+        {
+          "name": "Optic White",
+          "hex": "#ffffff",
+          "image": "https://picsum.photos/seed/varsity-varsity-jacket-1035-optic-white/800/1000"
+        },
+        {
+          "name": "Primary Red",
+          "hex": "#c8102e",
+          "image": "https://picsum.photos/seed/varsity-varsity-jacket-1035-primary-red/800/1000"
+        },
+        {
+          "name": "Black",
+          "hex": "#111111",
+          "image": "https://picsum.photos/seed/varsity-varsity-jacket-1035-black/800/1000"
+        },
+        {
+          "name": "Desert Sky",
+          "hex": "#0a1f44",
+          "image": "https://picsum.photos/seed/varsity-varsity-jacket-1035-desert-sky/800/1000"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "images": [
+        "https://picsum.photos/seed/varsity-varsity-jacket-1035-1/800/1000",
+        "https://picsum.photos/seed/varsity-varsity-jacket-1035-2/800/1000",
+        "https://picsum.photos/seed/varsity-varsity-jacket-1035-3/800/1000",
+        "https://picsum.photos/seed/varsity-varsity-jacket-1035-4/800/1000"
+      ],
+      "badges": [],
+      "inStock": true,
+      "stock": 91,
+      "fit": "Regular Fit",
+      "material": "100% Cotton",
+      "description": "Varsity Varsity Jacket — jackets & coats from the women's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-04-13"
+    },
+    {
+      "id": 1036,
+      "sku": "TH-WO-1036",
+      "name": "Global Stripe Varsity Jacket",
+      "slug": "global-stripe-varsity-jacket-1036",
+      "category": "women",
+      "subcategory": "jackets-coats",
+      "price": 39.9,
+      "oldPrice": null,
+      "discountPercent": 0,
+      "currency": "USD",
+      "rating": 4.1,
+      "reviewCount": 434,
+      "colors": [
+        {
+          "name": "Desert Sky",
+          "hex": "#0a1f44",
+          "image": "https://picsum.photos/seed/global-stripe-varsity-jacket-1036-desert-sky/800/1000"
+        },
+        {
+          "name": "Sand Khaki",
+          "hex": "#c2b280",
+          "image": "https://picsum.photos/seed/global-stripe-varsity-jacket-1036-sand-khaki/800/1000"
+        },
+        {
+          "name": "Sky Cloud",
+          "hex": "#a8c4de",
+          "image": "https://picsum.photos/seed/global-stripe-varsity-jacket-1036-sky-cloud/800/1000"
+        },
+        {
+          "name": "Ecru",
+          "hex": "#efe6d3",
+          "image": "https://picsum.photos/seed/global-stripe-varsity-jacket-1036-ecru/800/1000"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "images": [
+        "https://picsum.photos/seed/global-stripe-varsity-jacket-1036-1/800/1000",
+        "https://picsum.photos/seed/global-stripe-varsity-jacket-1036-2/800/1000",
+        "https://picsum.photos/seed/global-stripe-varsity-jacket-1036-3/800/1000",
+        "https://picsum.photos/seed/global-stripe-varsity-jacket-1036-4/800/1000"
+      ],
+      "badges": [],
+      "inStock": true,
+      "stock": 13,
+      "fit": "Oversized",
+      "material": "Organic Cotton Blend",
+      "description": "Global Stripe Varsity Jacket — jackets & coats from the women's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-08-14"
+    },
+    {
+      "id": 1037,
+      "sku": "TH-WO-1037",
+      "name": "Relaxed Fit Straight Fit Jeans",
+      "slug": "relaxed-fit-straight-fit-jeans-1037",
+      "category": "women",
+      "subcategory": "jeans",
+      "price": 249.9,
+      "oldPrice": null,
+      "discountPercent": 0,
+      "currency": "USD",
+      "rating": 4.0,
+      "reviewCount": 255,
+      "colors": [
+        {
+          "name": "Black",
+          "hex": "#111111",
+          "image": "https://picsum.photos/seed/relaxed-fit-straight-fit-jeans-1037-black/800/1000"
+        },
+        {
+          "name": "Ecru",
+          "hex": "#efe6d3",
+          "image": "https://picsum.photos/seed/relaxed-fit-straight-fit-jeans-1037-ecru/800/1000"
+        },
+        {
+          "name": "Olive",
+          "hex": "#5a5f3a",
+          "image": "https://picsum.photos/seed/relaxed-fit-straight-fit-jeans-1037-olive/800/1000"
+        },
+        {
+          "name": "Navy Blazer",
+          "hex": "#1b2a41",
+          "image": "https://picsum.photos/seed/relaxed-fit-straight-fit-jeans-1037-navy-blazer/800/1000"
+        }
+      ],
+      "sizes": [
+        "28/32",
+        "30/32",
+        "31/32",
+        "32/32",
+        "33/34",
+        "34/34",
+        "36/34"
+      ],
+      "images": [
+        "https://picsum.photos/seed/relaxed-fit-straight-fit-jeans-1037-1/800/1000",
+        "https://picsum.photos/seed/relaxed-fit-straight-fit-jeans-1037-2/800/1000",
+        "https://picsum.photos/seed/relaxed-fit-straight-fit-jeans-1037-3/800/1000",
+        "https://picsum.photos/seed/relaxed-fit-straight-fit-jeans-1037-4/800/1000"
+      ],
+      "badges": [],
+      "inStock": true,
+      "stock": 11,
+      "fit": "Relaxed Fit",
+      "material": "Recycled Polyester",
+      "description": "Relaxed Fit Straight Fit Jeans — jeans from the women's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-04-24"
+    },
+    {
+      "id": 1038,
+      "sku": "TH-WO-1038",
+      "name": "Embroidered Logo Tapered Jeans",
+      "slug": "embroidered-logo-tapered-jeans-1038",
+      "category": "women",
+      "subcategory": "jeans",
+      "price": 29.9,
+      "oldPrice": null,
+      "discountPercent": 0,
+      "currency": "USD",
+      "rating": 4.0,
+      "reviewCount": 614,
+      "colors": [
+        {
+          "name": "Primary Red",
+          "hex": "#c8102e",
+          "image": "https://picsum.photos/seed/embroidered-logo-tapered-jeans-1038-primary-red/800/1000"
+        },
+        {
+          "name": "Olive",
+          "hex": "#5a5f3a",
+          "image": "https://picsum.photos/seed/embroidered-logo-tapered-jeans-1038-olive/800/1000"
+        },
+        {
+          "name": "Navy Blazer",
+          "hex": "#1b2a41",
+          "image": "https://picsum.photos/seed/embroidered-logo-tapered-jeans-1038-navy-blazer/800/1000"
+        }
+      ],
+      "sizes": [
+        "28/32",
+        "30/32",
+        "31/32",
+        "32/32",
+        "33/34",
+        "34/34",
+        "36/34"
+      ],
+      "images": [
+        "https://picsum.photos/seed/embroidered-logo-tapered-jeans-1038-1/800/1000",
+        "https://picsum.photos/seed/embroidered-logo-tapered-jeans-1038-2/800/1000",
+        "https://picsum.photos/seed/embroidered-logo-tapered-jeans-1038-3/800/1000",
+        "https://picsum.photos/seed/embroidered-logo-tapered-jeans-1038-4/800/1000"
+      ],
+      "badges": [],
+      "inStock": true,
+      "stock": 35,
+      "fit": "Slim Fit",
+      "material": "Wool Blend",
+      "description": "Embroidered Logo Tapered Jeans — jeans from the women's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-04-12"
+    },
+    {
+      "id": 1039,
+      "sku": "TH-WO-1039",
+      "name": "Heritage A-Line Skirt",
+      "slug": "heritage-a-line-skirt-1039",
+      "category": "women",
+      "subcategory": "skirts",
+      "price": 89.9,
+      "oldPrice": null,
+      "discountPercent": 0,
+      "currency": "USD",
+      "rating": 4.0,
+      "reviewCount": 418,
+      "colors": [
+        {
+          "name": "Olive",
+          "hex": "#5a5f3a",
+          "image": "https://picsum.photos/seed/heritage-a-line-skirt-1039-olive/800/1000"
+        },
+        {
+          "name": "Charcoal Grey",
+          "hex": "#4a4a4a",
+          "image": "https://picsum.photos/seed/heritage-a-line-skirt-1039-charcoal-grey/800/1000"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "images": [
+        "https://picsum.photos/seed/heritage-a-line-skirt-1039-1/800/1000",
+        "https://picsum.photos/seed/heritage-a-line-skirt-1039-2/800/1000",
+        "https://picsum.photos/seed/heritage-a-line-skirt-1039-3/800/1000",
+        "https://picsum.photos/seed/heritage-a-line-skirt-1039-4/800/1000"
+      ],
+      "badges": [
+        "bestseller"
+      ],
+      "inStock": true,
+      "stock": 39,
+      "fit": "Relaxed Fit",
+      "material": "Recycled Polyester",
+      "description": "Heritage A-Line Skirt — skirts from the women's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-06-23"
+    },
+    {
+      "id": 1040,
+      "sku": "TH-WO-1040",
+      "name": "Archive Pleated Midi Skirt",
+      "slug": "archive-pleated-midi-skirt-1040",
+      "category": "women",
+      "subcategory": "skirts",
+      "price": 249.9,
+      "oldPrice": null,
+      "discountPercent": 0,
+      "currency": "USD",
+      "rating": 4.6,
+      "reviewCount": 784,
+      "colors": [
+        {
+          "name": "Black",
+          "hex": "#111111",
+          "image": "https://picsum.photos/seed/archive-pleated-midi-skirt-1040-black/800/1000"
+        },
+        {
+          "name": "Navy Blazer",
+          "hex": "#1b2a41",
+          "image": "https://picsum.photos/seed/archive-pleated-midi-skirt-1040-navy-blazer/800/1000"
+        },
+        {
+          "name": "Optic White",
+          "hex": "#ffffff",
+          "image": "https://picsum.photos/seed/archive-pleated-midi-skirt-1040-optic-white/800/1000"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "images": [
+        "https://picsum.photos/seed/archive-pleated-midi-skirt-1040-1/800/1000",
+        "https://picsum.photos/seed/archive-pleated-midi-skirt-1040-2/800/1000",
+        "https://picsum.photos/seed/archive-pleated-midi-skirt-1040-3/800/1000",
+        "https://picsum.photos/seed/archive-pleated-midi-skirt-1040-4/800/1000"
+      ],
+      "badges": [],
+      "inStock": true,
+      "stock": 24,
+      "fit": "Regular Fit",
+      "material": "Leather",
+      "description": "Archive Pleated Midi Skirt — skirts from the women's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-08-18"
+    },
+    {
+      "id": 1041,
+      "sku": "TH-WO-1041",
+      "name": "Global Stripe Tailored Trousers",
+      "slug": "global-stripe-tailored-trousers-1041",
+      "category": "women",
+      "subcategory": "trousers",
+      "price": 59.9,
+      "oldPrice": 85.57,
+      "discountPercent": 30,
+      "currency": "USD",
+      "rating": 3.7,
+      "reviewCount": 59,
+      "colors": [
+        {
+          "name": "Black",
+          "hex": "#111111",
+          "image": "https://picsum.photos/seed/global-stripe-tailored-trousers-1041-black/800/1000"
+        },
+        {
+          "name": "Desert Sky",
+          "hex": "#0a1f44",
+          "image": "https://picsum.photos/seed/global-stripe-tailored-trousers-1041-desert-sky/800/1000"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "images": [
+        "https://picsum.photos/seed/global-stripe-tailored-trousers-1041-1/800/1000",
+        "https://picsum.photos/seed/global-stripe-tailored-trousers-1041-2/800/1000",
+        "https://picsum.photos/seed/global-stripe-tailored-trousers-1041-3/800/1000",
+        "https://picsum.photos/seed/global-stripe-tailored-trousers-1041-4/800/1000"
+      ],
+      "badges": [
+        "sale",
+        "bestseller"
+      ],
+      "inStock": true,
+      "stock": 89,
+      "fit": "Regular Fit",
+      "material": "Leather",
+      "description": "Global Stripe Tailored Trousers — trousers from the women's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-08-13"
+    },
+    {
+      "id": 1042,
+      "sku": "TH-WO-1042",
+      "name": "Flag Logo Cargo Trousers",
+      "slug": "flag-logo-cargo-trousers-1042",
+      "category": "women",
+      "subcategory": "trousers",
+      "price": 69.9,
+      "oldPrice": null,
+      "discountPercent": 0,
+      "currency": "USD",
+      "rating": 3.8,
+      "reviewCount": 70,
+      "colors": [
+        {
+          "name": "Sand Khaki",
+          "hex": "#c2b280",
+          "image": "https://picsum.photos/seed/flag-logo-cargo-trousers-1042-sand-khaki/800/1000"
+        },
+        {
+          "name": "Primary Red",
+          "hex": "#c8102e",
+          "image": "https://picsum.photos/seed/flag-logo-cargo-trousers-1042-primary-red/800/1000"
+        },
+        {
+          "name": "Desert Sky",
+          "hex": "#0a1f44",
+          "image": "https://picsum.photos/seed/flag-logo-cargo-trousers-1042-desert-sky/800/1000"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "images": [
+        "https://picsum.photos/seed/flag-logo-cargo-trousers-1042-1/800/1000",
+        "https://picsum.photos/seed/flag-logo-cargo-trousers-1042-2/800/1000",
+        "https://picsum.photos/seed/flag-logo-cargo-trousers-1042-3/800/1000",
+        "https://picsum.photos/seed/flag-logo-cargo-trousers-1042-4/800/1000"
+      ],
+      "badges": [],
+      "inStock": true,
+      "stock": 9,
+      "fit": "Slim Fit",
+      "material": "95% Cotton, 5% Elastane",
+      "description": "Flag Logo Cargo Trousers — trousers from the women's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-03-28"
+    },
+    {
+      "id": 1043,
+      "sku": "TH-WO-1043",
+      "name": "Global Stripe Tote Bag",
+      "slug": "global-stripe-tote-bag-1043",
+      "category": "women",
+      "subcategory": "bags",
+      "price": 59.9,
+      "oldPrice": 85.57,
+      "discountPercent": 30,
+      "currency": "USD",
+      "rating": 4.4,
+      "reviewCount": 443,
+      "colors": [
+        {
+          "name": "Charcoal Grey",
+          "hex": "#4a4a4a",
+          "image": "https://picsum.photos/seed/global-stripe-tote-bag-1043-charcoal-grey/800/1000"
+        },
+        {
+          "name": "Navy Blazer",
+          "hex": "#1b2a41",
+          "image": "https://picsum.photos/seed/global-stripe-tote-bag-1043-navy-blazer/800/1000"
+        },
+        {
+          "name": "Sky Cloud",
+          "hex": "#a8c4de",
+          "image": "https://picsum.photos/seed/global-stripe-tote-bag-1043-sky-cloud/800/1000"
+        },
+        {
+          "name": "Ecru",
+          "hex": "#efe6d3",
+          "image": "https://picsum.photos/seed/global-stripe-tote-bag-1043-ecru/800/1000"
+        }
+      ],
+      "sizes": [
+        "One Size"
+      ],
+      "images": [
+        "https://picsum.photos/seed/global-stripe-tote-bag-1043-1/800/1000",
+        "https://picsum.photos/seed/global-stripe-tote-bag-1043-2/800/1000",
+        "https://picsum.photos/seed/global-stripe-tote-bag-1043-3/800/1000",
+        "https://picsum.photos/seed/global-stripe-tote-bag-1043-4/800/1000"
+      ],
+      "badges": [
+        "sale"
+      ],
+      "inStock": true,
+      "stock": 79,
+      "fit": "Slim Fit",
+      "material": "Wool Blend",
+      "description": "Global Stripe Tote Bag — bags from the women's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-02-16"
+    },
+    {
+      "id": 1044,
+      "sku": "TH-WO-1044",
+      "name": "Signature Stripe Backpack",
+      "slug": "signature-stripe-backpack-1044",
+      "category": "women",
+      "subcategory": "bags",
+      "price": 199.9,
+      "oldPrice": 249.88,
+      "discountPercent": 20,
+      "currency": "USD",
+      "rating": 4.6,
+      "reviewCount": 485,
+      "colors": [
+        {
+          "name": "Ecru",
+          "hex": "#efe6d3",
+          "image": "https://picsum.photos/seed/signature-stripe-backpack-1044-ecru/800/1000"
+        },
+        {
+          "name": "Optic White",
+          "hex": "#ffffff",
+          "image": "https://picsum.photos/seed/signature-stripe-backpack-1044-optic-white/800/1000"
+        }
+      ],
+      "sizes": [
+        "One Size"
+      ],
+      "images": [
+        "https://picsum.photos/seed/signature-stripe-backpack-1044-1/800/1000",
+        "https://picsum.photos/seed/signature-stripe-backpack-1044-2/800/1000",
+        "https://picsum.photos/seed/signature-stripe-backpack-1044-3/800/1000",
+        "https://picsum.photos/seed/signature-stripe-backpack-1044-4/800/1000"
+      ],
+      "badges": [
+        "sale",
+        "new"
+      ],
+      "inStock": true,
+      "stock": 29,
+      "fit": "Relaxed Fit",
+      "material": "Leather",
+      "description": "Signature Stripe Backpack — bags from the women's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-05-24"
+    },
+    {
+      "id": 1045,
+      "sku": "TH-WO-1045",
+      "name": "Classic Court Trainers",
+      "slug": "classic-court-trainers-1045",
+      "category": "women",
+      "subcategory": "shoes",
+      "price": 69.9,
+      "oldPrice": null,
+      "discountPercent": 0,
+      "currency": "USD",
+      "rating": 4.9,
+      "reviewCount": 850,
+      "colors": [
+        {
+          "name": "Charcoal Grey",
+          "hex": "#4a4a4a",
+          "image": "https://picsum.photos/seed/classic-court-trainers-1045-charcoal-grey/800/1000"
+        },
+        {
+          "name": "Navy Blazer",
+          "hex": "#1b2a41",
+          "image": "https://picsum.photos/seed/classic-court-trainers-1045-navy-blazer/800/1000"
+        },
+        {
+          "name": "Sky Cloud",
+          "hex": "#a8c4de",
+          "image": "https://picsum.photos/seed/classic-court-trainers-1045-sky-cloud/800/1000"
+        },
+        {
+          "name": "Desert Sky",
+          "hex": "#0a1f44",
+          "image": "https://picsum.photos/seed/classic-court-trainers-1045-desert-sky/800/1000"
+        }
+      ],
+      "sizes": [
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "images": [
+        "https://picsum.photos/seed/classic-court-trainers-1045-1/800/1000",
+        "https://picsum.photos/seed/classic-court-trainers-1045-2/800/1000",
+        "https://picsum.photos/seed/classic-court-trainers-1045-3/800/1000",
+        "https://picsum.photos/seed/classic-court-trainers-1045-4/800/1000"
+      ],
+      "badges": [],
+      "inStock": true,
+      "stock": 7,
+      "fit": "Regular Fit",
+      "material": "Organic Cotton Blend",
+      "description": "Classic Court Trainers — shoes from the women's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-05-24"
+    },
+    {
+      "id": 1046,
+      "sku": "TH-WO-1046",
+      "name": "Essential Loafers",
+      "slug": "essential-loafers-1046",
+      "category": "women",
+      "subcategory": "shoes",
+      "price": 249.9,
+      "oldPrice": 357.0,
+      "discountPercent": 30,
+      "currency": "USD",
+      "rating": 4.8,
+      "reviewCount": 756,
+      "colors": [
+        {
+          "name": "Ecru",
+          "hex": "#efe6d3",
+          "image": "https://picsum.photos/seed/essential-loafers-1046-ecru/800/1000"
+        },
+        {
+          "name": "Charcoal Grey",
+          "hex": "#4a4a4a",
+          "image": "https://picsum.photos/seed/essential-loafers-1046-charcoal-grey/800/1000"
+        },
+        {
+          "name": "Olive",
+          "hex": "#5a5f3a",
+          "image": "https://picsum.photos/seed/essential-loafers-1046-olive/800/1000"
+        }
+      ],
+      "sizes": [
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "images": [
+        "https://picsum.photos/seed/essential-loafers-1046-1/800/1000",
+        "https://picsum.photos/seed/essential-loafers-1046-2/800/1000",
+        "https://picsum.photos/seed/essential-loafers-1046-3/800/1000",
+        "https://picsum.photos/seed/essential-loafers-1046-4/800/1000"
+      ],
+      "badges": [
+        "sale"
+      ],
+      "inStock": true,
+      "stock": 32,
+      "fit": "Slim Fit",
+      "material": "100% Cotton",
+      "description": "Essential Loafers — shoes from the women's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-04-28"
+    },
+    {
+      "id": 1047,
+      "sku": "TH-WO-1047",
+      "name": "Flag Logo Sunglasses",
+      "slug": "flag-logo-sunglasses-1047",
+      "category": "women",
+      "subcategory": "accessories",
+      "price": 69.9,
+      "oldPrice": null,
+      "discountPercent": 0,
+      "currency": "USD",
+      "rating": 3.9,
+      "reviewCount": 603,
+      "colors": [
+        {
+          "name": "Olive",
+          "hex": "#5a5f3a",
+          "image": "https://picsum.photos/seed/flag-logo-sunglasses-1047-olive/800/1000"
+        },
+        {
+          "name": "Ecru",
+          "hex": "#efe6d3",
+          "image": "https://picsum.photos/seed/flag-logo-sunglasses-1047-ecru/800/1000"
+        }
+      ],
+      "sizes": [
+        "One Size"
+      ],
+      "images": [
+        "https://picsum.photos/seed/flag-logo-sunglasses-1047-1/800/1000",
+        "https://picsum.photos/seed/flag-logo-sunglasses-1047-2/800/1000",
+        "https://picsum.photos/seed/flag-logo-sunglasses-1047-3/800/1000",
+        "https://picsum.photos/seed/flag-logo-sunglasses-1047-4/800/1000"
+      ],
+      "badges": [],
+      "inStock": true,
+      "stock": 104,
+      "fit": "Oversized",
+      "material": "100% Cotton",
+      "description": "Flag Logo Sunglasses — accessories from the women's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-08-21"
+    },
+    {
+      "id": 1048,
+      "sku": "TH-WO-1048",
+      "name": "Relaxed Fit Wool Beanie",
+      "slug": "relaxed-fit-wool-beanie-1048",
+      "category": "women",
+      "subcategory": "accessories",
+      "price": 79.9,
+      "oldPrice": null,
+      "discountPercent": 0,
+      "currency": "USD",
+      "rating": 4.9,
+      "reviewCount": 837,
+      "colors": [
+        {
+          "name": "Sand Khaki",
+          "hex": "#c2b280",
+          "image": "https://picsum.photos/seed/relaxed-fit-wool-beanie-1048-sand-khaki/800/1000"
+        },
+        {
+          "name": "Sky Cloud",
+          "hex": "#a8c4de",
+          "image": "https://picsum.photos/seed/relaxed-fit-wool-beanie-1048-sky-cloud/800/1000"
+        }
+      ],
+      "sizes": [
+        "One Size"
+      ],
+      "images": [
+        "https://picsum.photos/seed/relaxed-fit-wool-beanie-1048-1/800/1000",
+        "https://picsum.photos/seed/relaxed-fit-wool-beanie-1048-2/800/1000",
+        "https://picsum.photos/seed/relaxed-fit-wool-beanie-1048-3/800/1000",
+        "https://picsum.photos/seed/relaxed-fit-wool-beanie-1048-4/800/1000"
+      ],
+      "badges": [],
+      "inStock": true,
+      "stock": 4,
+      "fit": "Oversized",
+      "material": "100% Cotton",
+      "description": "Relaxed Fit Wool Beanie — accessories from the women's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-06-18"
+    },
+    {
+      "id": 1049,
+      "sku": "TH-BO-1049",
+      "name": "Archive Crew Neck T-Shirt",
+      "slug": "archive-crew-neck-t-shirt-1049",
+      "category": "boys",
+      "subcategory": "t-shirts",
+      "price": 62.93,
+      "oldPrice": null,
+      "discountPercent": 0,
+      "currency": "USD",
+      "rating": 4.1,
+      "reviewCount": 778,
+      "colors": [
+        {
+          "name": "Ecru",
+          "hex": "#efe6d3",
+          "image": "https://picsum.photos/seed/archive-crew-neck-t-shirt-1049-ecru/800/1000"
+        },
+        {
+          "name": "Olive",
+          "hex": "#5a5f3a",
+          "image": "https://picsum.photos/seed/archive-crew-neck-t-shirt-1049-olive/800/1000"
+        }
+      ],
+      "sizes": [
+        "4-5Y",
+        "6-7Y",
+        "8-9Y",
+        "10-11Y",
+        "12-13Y",
+        "14-16Y"
+      ],
+      "images": [
+        "https://picsum.photos/seed/archive-crew-neck-t-shirt-1049-1/800/1000",
+        "https://picsum.photos/seed/archive-crew-neck-t-shirt-1049-2/800/1000",
+        "https://picsum.photos/seed/archive-crew-neck-t-shirt-1049-3/800/1000",
+        "https://picsum.photos/seed/archive-crew-neck-t-shirt-1049-4/800/1000"
+      ],
+      "badges": [
+        "bestseller"
+      ],
+      "inStock": true,
+      "stock": 56,
+      "fit": "Slim Fit",
+      "material": "95% Cotton, 5% Elastane",
+      "description": "Archive Crew Neck T-Shirt — t-shirts from the boys's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-05-27"
+    },
+    {
+      "id": 1050,
+      "sku": "TH-BO-1050",
+      "name": "Monotype V-Neck T-Shirt",
+      "slug": "monotype-v-neck-t-shirt-1050",
+      "category": "boys",
+      "subcategory": "t-shirts",
+      "price": 69.93,
+      "oldPrice": null,
+      "discountPercent": 0,
+      "currency": "USD",
+      "rating": 3.6,
+      "reviewCount": 421,
+      "colors": [
+        {
+          "name": "Optic White",
+          "hex": "#ffffff",
+          "image": "https://picsum.photos/seed/monotype-v-neck-t-shirt-1050-optic-white/800/1000"
+        },
+        {
+          "name": "Desert Sky",
+          "hex": "#0a1f44",
+          "image": "https://picsum.photos/seed/monotype-v-neck-t-shirt-1050-desert-sky/800/1000"
+        },
+        {
+          "name": "Navy Blazer",
+          "hex": "#1b2a41",
+          "image": "https://picsum.photos/seed/monotype-v-neck-t-shirt-1050-navy-blazer/800/1000"
+        }
+      ],
+      "sizes": [
+        "4-5Y",
+        "6-7Y",
+        "8-9Y",
+        "10-11Y",
+        "12-13Y",
+        "14-16Y"
+      ],
+      "images": [
+        "https://picsum.photos/seed/monotype-v-neck-t-shirt-1050-1/800/1000",
+        "https://picsum.photos/seed/monotype-v-neck-t-shirt-1050-2/800/1000",
+        "https://picsum.photos/seed/monotype-v-neck-t-shirt-1050-3/800/1000",
+        "https://picsum.photos/seed/monotype-v-neck-t-shirt-1050-4/800/1000"
+      ],
+      "badges": [],
+      "inStock": true,
+      "stock": 107,
+      "fit": "Slim Fit",
+      "material": "Recycled Polyester",
+      "description": "Monotype V-Neck T-Shirt — t-shirts from the boys's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-02-14"
+    },
+    {
+      "id": 1051,
+      "sku": "TH-BO-1051",
+      "name": "Tape Detail Slim Fit Polo",
+      "slug": "tape-detail-slim-fit-polo-1051",
+      "category": "boys",
+      "subcategory": "polos",
+      "price": 90.93,
+      "oldPrice": null,
+      "discountPercent": 0,
+      "currency": "USD",
+      "rating": 3.9,
+      "reviewCount": 617,
+      "colors": [
+        {
+          "name": "Olive",
+          "hex": "#5a5f3a",
+          "image": "https://picsum.photos/seed/tape-detail-slim-fit-polo-1051-olive/800/1000"
+        },
+        {
+          "name": "Charcoal Grey",
+          "hex": "#4a4a4a",
+          "image": "https://picsum.photos/seed/tape-detail-slim-fit-polo-1051-charcoal-grey/800/1000"
+        },
+        {
+          "name": "Navy Blazer",
+          "hex": "#1b2a41",
+          "image": "https://picsum.photos/seed/tape-detail-slim-fit-polo-1051-navy-blazer/800/1000"
+        }
+      ],
+      "sizes": [
+        "4-5Y",
+        "6-7Y",
+        "8-9Y",
+        "10-11Y",
+        "12-13Y",
+        "14-16Y"
+      ],
+      "images": [
+        "https://picsum.photos/seed/tape-detail-slim-fit-polo-1051-1/800/1000",
+        "https://picsum.photos/seed/tape-detail-slim-fit-polo-1051-2/800/1000",
+        "https://picsum.photos/seed/tape-detail-slim-fit-polo-1051-3/800/1000",
+        "https://picsum.photos/seed/tape-detail-slim-fit-polo-1051-4/800/1000"
+      ],
+      "badges": [
+        "bestseller"
+      ],
+      "inStock": true,
+      "stock": 112,
+      "fit": "Regular Fit",
+      "material": "100% Cotton",
+      "description": "Tape Detail Slim Fit Polo — polos from the boys's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-05-23"
+    },
+    {
+      "id": 1052,
+      "sku": "TH-BO-1052",
+      "name": "Archive Slim Fit Polo",
+      "slug": "archive-slim-fit-polo-1052",
+      "category": "boys",
+      "subcategory": "polos",
+      "price": 20.93,
+      "oldPrice": 29.9,
+      "discountPercent": 30,
+      "currency": "USD",
+      "rating": 4.4,
+      "reviewCount": 560,
+      "colors": [
+        {
+          "name": "Charcoal Grey",
+          "hex": "#4a4a4a",
+          "image": "https://picsum.photos/seed/archive-slim-fit-polo-1052-charcoal-grey/800/1000"
+        },
+        {
+          "name": "Olive",
+          "hex": "#5a5f3a",
+          "image": "https://picsum.photos/seed/archive-slim-fit-polo-1052-olive/800/1000"
+        },
+        {
+          "name": "Primary Red",
+          "hex": "#c8102e",
+          "image": "https://picsum.photos/seed/archive-slim-fit-polo-1052-primary-red/800/1000"
+        },
+        {
+          "name": "Navy Blazer",
+          "hex": "#1b2a41",
+          "image": "https://picsum.photos/seed/archive-slim-fit-polo-1052-navy-blazer/800/1000"
+        }
+      ],
+      "sizes": [
+        "4-5Y",
+        "6-7Y",
+        "8-9Y",
+        "10-11Y",
+        "12-13Y",
+        "14-16Y"
+      ],
+      "images": [
+        "https://picsum.photos/seed/archive-slim-fit-polo-1052-1/800/1000",
+        "https://picsum.photos/seed/archive-slim-fit-polo-1052-2/800/1000",
+        "https://picsum.photos/seed/archive-slim-fit-polo-1052-3/800/1000",
+        "https://picsum.photos/seed/archive-slim-fit-polo-1052-4/800/1000"
+      ],
+      "badges": [
+        "sale"
+      ],
+      "inStock": true,
+      "stock": 119,
+      "fit": "Relaxed Fit",
+      "material": "95% Cotton, 5% Elastane",
+      "description": "Archive Slim Fit Polo — polos from the boys's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-04-28"
+    },
+    {
+      "id": 1053,
+      "sku": "TH-BO-1053",
+      "name": "Embroidered Logo Crew Neck Sweatshirt",
+      "slug": "embroidered-logo-crew-neck-sweatshirt-1053",
+      "category": "boys",
+      "subcategory": "hoodies-sweatshirts",
+      "price": 62.93,
+      "oldPrice": 104.88,
+      "discountPercent": 40,
+      "currency": "USD",
+      "rating": 4.3,
+      "reviewCount": 608,
+      "colors": [
+        {
+          "name": "Sky Cloud",
+          "hex": "#a8c4de",
+          "image": "https://picsum.photos/seed/embroidered-logo-crew-neck-sweatshirt-1053-sky-cloud/800/1000"
+        },
+        {
+          "name": "Charcoal Grey",
+          "hex": "#4a4a4a",
+          "image": "https://picsum.photos/seed/embroidered-logo-crew-neck-sweatshirt-1053-charcoal-grey/800/1000"
+        },
+        {
+          "name": "Primary Red",
+          "hex": "#c8102e",
+          "image": "https://picsum.photos/seed/embroidered-logo-crew-neck-sweatshirt-1053-primary-red/800/1000"
+        }
+      ],
+      "sizes": [
+        "4-5Y",
+        "6-7Y",
+        "8-9Y",
+        "10-11Y",
+        "12-13Y",
+        "14-16Y"
+      ],
+      "images": [
+        "https://picsum.photos/seed/embroidered-logo-crew-neck-sweatshirt-1053-1/800/1000",
+        "https://picsum.photos/seed/embroidered-logo-crew-neck-sweatshirt-1053-2/800/1000",
+        "https://picsum.photos/seed/embroidered-logo-crew-neck-sweatshirt-1053-3/800/1000",
+        "https://picsum.photos/seed/embroidered-logo-crew-neck-sweatshirt-1053-4/800/1000"
+      ],
+      "badges": [
+        "sale",
+        "bestseller"
+      ],
+      "inStock": true,
+      "stock": 12,
+      "fit": "Oversized",
+      "material": "100% Cotton",
+      "description": "Embroidered Logo Crew Neck Sweatshirt — hoodies & sweatshirts from the boys's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-08-10"
+    },
+    {
+      "id": 1054,
+      "sku": "TH-BO-1054",
+      "name": "Monotype Half Zip Sweatshirt",
+      "slug": "monotype-half-zip-sweatshirt-1054",
+      "category": "boys",
+      "subcategory": "hoodies-sweatshirts",
+      "price": 139.93,
+      "oldPrice": null,
+      "discountPercent": 0,
+      "currency": "USD",
+      "rating": 4.5,
+      "reviewCount": 340,
+      "colors": [
+        {
+          "name": "Olive",
+          "hex": "#5a5f3a",
+          "image": "https://picsum.photos/seed/monotype-half-zip-sweatshirt-1054-olive/800/1000"
+        },
+        {
+          "name": "Black",
+          "hex": "#111111",
+          "image": "https://picsum.photos/seed/monotype-half-zip-sweatshirt-1054-black/800/1000"
+        }
+      ],
+      "sizes": [
+        "4-5Y",
+        "6-7Y",
+        "8-9Y",
+        "10-11Y",
+        "12-13Y",
+        "14-16Y"
+      ],
+      "images": [
+        "https://picsum.photos/seed/monotype-half-zip-sweatshirt-1054-1/800/1000",
+        "https://picsum.photos/seed/monotype-half-zip-sweatshirt-1054-2/800/1000",
+        "https://picsum.photos/seed/monotype-half-zip-sweatshirt-1054-3/800/1000",
+        "https://picsum.photos/seed/monotype-half-zip-sweatshirt-1054-4/800/1000"
+      ],
+      "badges": [],
+      "inStock": true,
+      "stock": 109,
+      "fit": "Oversized",
+      "material": "Organic Cotton Blend",
+      "description": "Monotype Half Zip Sweatshirt — hoodies & sweatshirts from the boys's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-08-27"
+    },
+    {
+      "id": 1055,
+      "sku": "TH-BO-1055",
+      "name": "Stretch Slim Fit Bomber Jacket",
+      "slug": "stretch-slim-fit-bomber-jacket-1055",
+      "category": "boys",
+      "subcategory": "jackets",
+      "price": 41.93,
+      "oldPrice": null,
+      "discountPercent": 0,
+      "currency": "USD",
+      "rating": 4.6,
+      "reviewCount": 106,
+      "colors": [
+        {
+          "name": "Navy Blazer",
+          "hex": "#1b2a41",
+          "image": "https://picsum.photos/seed/stretch-slim-fit-bomber-jacket-1055-navy-blazer/800/1000"
+        },
+        {
+          "name": "Optic White",
+          "hex": "#ffffff",
+          "image": "https://picsum.photos/seed/stretch-slim-fit-bomber-jacket-1055-optic-white/800/1000"
+        },
+        {
+          "name": "Sky Cloud",
+          "hex": "#a8c4de",
+          "image": "https://picsum.photos/seed/stretch-slim-fit-bomber-jacket-1055-sky-cloud/800/1000"
+        }
+      ],
+      "sizes": [
+        "4-5Y",
+        "6-7Y",
+        "8-9Y",
+        "10-11Y",
+        "12-13Y",
+        "14-16Y"
+      ],
+      "images": [
+        "https://picsum.photos/seed/stretch-slim-fit-bomber-jacket-1055-1/800/1000",
+        "https://picsum.photos/seed/stretch-slim-fit-bomber-jacket-1055-2/800/1000",
+        "https://picsum.photos/seed/stretch-slim-fit-bomber-jacket-1055-3/800/1000",
+        "https://picsum.photos/seed/stretch-slim-fit-bomber-jacket-1055-4/800/1000"
+      ],
+      "badges": [],
+      "inStock": true,
+      "stock": 88,
+      "fit": "Relaxed Fit",
+      "material": "100% Cotton",
+      "description": "Stretch Slim Fit Bomber Jacket — jackets from the boys's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-01-20"
+    },
+    {
+      "id": 1056,
+      "sku": "TH-BO-1056",
+      "name": "Stretch Slim Fit Windbreaker",
+      "slug": "stretch-slim-fit-windbreaker-1056",
+      "category": "boys",
+      "subcategory": "jackets",
+      "price": 55.93,
+      "oldPrice": null,
+      "discountPercent": 0,
+      "currency": "USD",
+      "rating": 3.9,
+      "reviewCount": 183,
+      "colors": [
+        {
+          "name": "Navy Blazer",
+          "hex": "#1b2a41",
+          "image": "https://picsum.photos/seed/stretch-slim-fit-windbreaker-1056-navy-blazer/800/1000"
+        },
+        {
+          "name": "Ecru",
+          "hex": "#efe6d3",
+          "image": "https://picsum.photos/seed/stretch-slim-fit-windbreaker-1056-ecru/800/1000"
+        }
+      ],
+      "sizes": [
+        "4-5Y",
+        "6-7Y",
+        "8-9Y",
+        "10-11Y",
+        "12-13Y",
+        "14-16Y"
+      ],
+      "images": [
+        "https://picsum.photos/seed/stretch-slim-fit-windbreaker-1056-1/800/1000",
+        "https://picsum.photos/seed/stretch-slim-fit-windbreaker-1056-2/800/1000",
+        "https://picsum.photos/seed/stretch-slim-fit-windbreaker-1056-3/800/1000",
+        "https://picsum.photos/seed/stretch-slim-fit-windbreaker-1056-4/800/1000"
+      ],
+      "badges": [],
+      "inStock": true,
+      "stock": 111,
+      "fit": "Oversized",
+      "material": "Wool Blend",
+      "description": "Stretch Slim Fit Windbreaker — jackets from the boys's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-04-25"
+    },
+    {
+      "id": 1057,
+      "sku": "TH-BO-1057",
+      "name": "Monotype Straight Fit Jeans",
+      "slug": "monotype-straight-fit-jeans-1057",
+      "category": "boys",
+      "subcategory": "jeans",
+      "price": 69.93,
+      "oldPrice": null,
+      "discountPercent": 0,
+      "currency": "USD",
+      "rating": 3.8,
+      "reviewCount": 456,
+      "colors": [
+        {
+          "name": "Black",
+          "hex": "#111111",
+          "image": "https://picsum.photos/seed/monotype-straight-fit-jeans-1057-black/800/1000"
+        },
+        {
+          "name": "Desert Sky",
+          "hex": "#0a1f44",
+          "image": "https://picsum.photos/seed/monotype-straight-fit-jeans-1057-desert-sky/800/1000"
+        },
+        {
+          "name": "Olive",
+          "hex": "#5a5f3a",
+          "image": "https://picsum.photos/seed/monotype-straight-fit-jeans-1057-olive/800/1000"
+        }
+      ],
+      "sizes": [
+        "4-5Y",
+        "6-7Y",
+        "8-9Y",
+        "10-11Y",
+        "12-13Y",
+        "14-16Y"
+      ],
+      "images": [
+        "https://picsum.photos/seed/monotype-straight-fit-jeans-1057-1/800/1000",
+        "https://picsum.photos/seed/monotype-straight-fit-jeans-1057-2/800/1000",
+        "https://picsum.photos/seed/monotype-straight-fit-jeans-1057-3/800/1000",
+        "https://picsum.photos/seed/monotype-straight-fit-jeans-1057-4/800/1000"
+      ],
+      "badges": [],
+      "inStock": false,
+      "stock": 75,
+      "fit": "Relaxed Fit",
+      "material": "Leather",
+      "description": "Monotype Straight Fit Jeans — jeans from the boys's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-07-18"
+    },
+    {
+      "id": 1058,
+      "sku": "TH-BO-1058",
+      "name": "Organic Cotton Tapered Jeans",
+      "slug": "organic-cotton-tapered-jeans-1058",
+      "category": "boys",
+      "subcategory": "jeans",
+      "price": 41.93,
+      "oldPrice": null,
+      "discountPercent": 0,
+      "currency": "USD",
+      "rating": 5.0,
+      "reviewCount": 306,
+      "colors": [
+        {
+          "name": "Optic White",
+          "hex": "#ffffff",
+          "image": "https://picsum.photos/seed/organic-cotton-tapered-jeans-1058-optic-white/800/1000"
+        },
+        {
+          "name": "Navy Blazer",
+          "hex": "#1b2a41",
+          "image": "https://picsum.photos/seed/organic-cotton-tapered-jeans-1058-navy-blazer/800/1000"
+        },
+        {
+          "name": "Sky Cloud",
+          "hex": "#a8c4de",
+          "image": "https://picsum.photos/seed/organic-cotton-tapered-jeans-1058-sky-cloud/800/1000"
+        }
+      ],
+      "sizes": [
+        "4-5Y",
+        "6-7Y",
+        "8-9Y",
+        "10-11Y",
+        "12-13Y",
+        "14-16Y"
+      ],
+      "images": [
+        "https://picsum.photos/seed/organic-cotton-tapered-jeans-1058-1/800/1000",
+        "https://picsum.photos/seed/organic-cotton-tapered-jeans-1058-2/800/1000",
+        "https://picsum.photos/seed/organic-cotton-tapered-jeans-1058-3/800/1000",
+        "https://picsum.photos/seed/organic-cotton-tapered-jeans-1058-4/800/1000"
+      ],
+      "badges": [],
+      "inStock": true,
+      "stock": 106,
+      "fit": "Oversized",
+      "material": "Organic Cotton Blend",
+      "description": "Organic Cotton Tapered Jeans — jeans from the boys's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-01-28"
+    },
+    {
+      "id": 1059,
+      "sku": "TH-BO-1059",
+      "name": "Stretch Slim Fit Denim Shorts",
+      "slug": "stretch-slim-fit-denim-shorts-1059",
+      "category": "boys",
+      "subcategory": "shorts",
+      "price": 48.93,
+      "oldPrice": null,
+      "discountPercent": 0,
+      "currency": "USD",
+      "rating": 4.0,
+      "reviewCount": 777,
+      "colors": [
+        {
+          "name": "Charcoal Grey",
+          "hex": "#4a4a4a",
+          "image": "https://picsum.photos/seed/stretch-slim-fit-denim-shorts-1059-charcoal-grey/800/1000"
+        },
+        {
+          "name": "Sand Khaki",
+          "hex": "#c2b280",
+          "image": "https://picsum.photos/seed/stretch-slim-fit-denim-shorts-1059-sand-khaki/800/1000"
+        }
+      ],
+      "sizes": [
+        "4-5Y",
+        "6-7Y",
+        "8-9Y",
+        "10-11Y",
+        "12-13Y",
+        "14-16Y"
+      ],
+      "images": [
+        "https://picsum.photos/seed/stretch-slim-fit-denim-shorts-1059-1/800/1000",
+        "https://picsum.photos/seed/stretch-slim-fit-denim-shorts-1059-2/800/1000",
+        "https://picsum.photos/seed/stretch-slim-fit-denim-shorts-1059-3/800/1000",
+        "https://picsum.photos/seed/stretch-slim-fit-denim-shorts-1059-4/800/1000"
+      ],
+      "badges": [
+        "new",
+        "bestseller"
+      ],
+      "inStock": true,
+      "stock": 84,
+      "fit": "Regular Fit",
+      "material": "Leather",
+      "description": "Stretch Slim Fit Denim Shorts — shorts from the boys's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-02-11"
+    },
+    {
+      "id": 1060,
+      "sku": "TH-BO-1060",
+      "name": "Global Stripe Denim Shorts",
+      "slug": "global-stripe-denim-shorts-1060",
+      "category": "boys",
+      "subcategory": "shorts",
+      "price": 20.93,
+      "oldPrice": null,
+      "discountPercent": 0,
+      "currency": "USD",
+      "rating": 3.8,
+      "reviewCount": 556,
+      "colors": [
+        {
+          "name": "Primary Red",
+          "hex": "#c8102e",
+          "image": "https://picsum.photos/seed/global-stripe-denim-shorts-1060-primary-red/800/1000"
+        },
+        {
+          "name": "Optic White",
+          "hex": "#ffffff",
+          "image": "https://picsum.photos/seed/global-stripe-denim-shorts-1060-optic-white/800/1000"
+        },
+        {
+          "name": "Black",
+          "hex": "#111111",
+          "image": "https://picsum.photos/seed/global-stripe-denim-shorts-1060-black/800/1000"
+        },
+        {
+          "name": "Charcoal Grey",
+          "hex": "#4a4a4a",
+          "image": "https://picsum.photos/seed/global-stripe-denim-shorts-1060-charcoal-grey/800/1000"
+        }
+      ],
+      "sizes": [
+        "4-5Y",
+        "6-7Y",
+        "8-9Y",
+        "10-11Y",
+        "12-13Y",
+        "14-16Y"
+      ],
+      "images": [
+        "https://picsum.photos/seed/global-stripe-denim-shorts-1060-1/800/1000",
+        "https://picsum.photos/seed/global-stripe-denim-shorts-1060-2/800/1000",
+        "https://picsum.photos/seed/global-stripe-denim-shorts-1060-3/800/1000",
+        "https://picsum.photos/seed/global-stripe-denim-shorts-1060-4/800/1000"
+      ],
+      "badges": [
+        "bestseller"
+      ],
+      "inStock": true,
+      "stock": 46,
+      "fit": "Relaxed Fit",
+      "material": "95% Cotton, 5% Elastane",
+      "description": "Global Stripe Denim Shorts — shorts from the boys's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-05-25"
+    },
+    {
+      "id": 1061,
+      "sku": "TH-BO-1061",
+      "name": "Global Stripe Chunky Runners",
+      "slug": "global-stripe-chunky-runners-1061",
+      "category": "boys",
+      "subcategory": "shoes",
+      "price": 27.93,
+      "oldPrice": null,
+      "discountPercent": 0,
+      "currency": "USD",
+      "rating": 5.0,
+      "reviewCount": 827,
+      "colors": [
+        {
+          "name": "Primary Red",
+          "hex": "#c8102e",
+          "image": "https://picsum.photos/seed/global-stripe-chunky-runners-1061-primary-red/800/1000"
+        },
+        {
+          "name": "Navy Blazer",
+          "hex": "#1b2a41",
+          "image": "https://picsum.photos/seed/global-stripe-chunky-runners-1061-navy-blazer/800/1000"
+        }
+      ],
+      "sizes": [
+        "4-5Y",
+        "6-7Y",
+        "8-9Y",
+        "10-11Y",
+        "12-13Y",
+        "14-16Y"
+      ],
+      "images": [
+        "https://picsum.photos/seed/global-stripe-chunky-runners-1061-1/800/1000",
+        "https://picsum.photos/seed/global-stripe-chunky-runners-1061-2/800/1000",
+        "https://picsum.photos/seed/global-stripe-chunky-runners-1061-3/800/1000",
+        "https://picsum.photos/seed/global-stripe-chunky-runners-1061-4/800/1000"
+      ],
+      "badges": [],
+      "inStock": true,
+      "stock": 11,
+      "fit": "Oversized",
+      "material": "100% Cotton",
+      "description": "Global Stripe Chunky Runners — shoes from the boys's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-05-27"
+    },
+    {
+      "id": 1062,
+      "sku": "TH-BO-1062",
+      "name": "Essential Loafers",
+      "slug": "essential-loafers-1062",
+      "category": "boys",
+      "subcategory": "shoes",
+      "price": 55.93,
+      "oldPrice": null,
+      "discountPercent": 0,
+      "currency": "USD",
+      "rating": 4.5,
+      "reviewCount": 578,
+      "colors": [
+        {
+          "name": "Black",
+          "hex": "#111111",
+          "image": "https://picsum.photos/seed/essential-loafers-1062-black/800/1000"
+        },
+        {
+          "name": "Sky Cloud",
+          "hex": "#a8c4de",
+          "image": "https://picsum.photos/seed/essential-loafers-1062-sky-cloud/800/1000"
+        },
+        {
+          "name": "Sand Khaki",
+          "hex": "#c2b280",
+          "image": "https://picsum.photos/seed/essential-loafers-1062-sand-khaki/800/1000"
+        },
+        {
+          "name": "Desert Sky",
+          "hex": "#0a1f44",
+          "image": "https://picsum.photos/seed/essential-loafers-1062-desert-sky/800/1000"
+        }
+      ],
+      "sizes": [
+        "4-5Y",
+        "6-7Y",
+        "8-9Y",
+        "10-11Y",
+        "12-13Y",
+        "14-16Y"
+      ],
+      "images": [
+        "https://picsum.photos/seed/essential-loafers-1062-1/800/1000",
+        "https://picsum.photos/seed/essential-loafers-1062-2/800/1000",
+        "https://picsum.photos/seed/essential-loafers-1062-3/800/1000",
+        "https://picsum.photos/seed/essential-loafers-1062-4/800/1000"
+      ],
+      "badges": [],
+      "inStock": true,
+      "stock": 78,
+      "fit": "Regular Fit",
+      "material": "Leather",
+      "description": "Essential Loafers — shoes from the boys's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-02-24"
+    },
+    {
+      "id": 1063,
+      "sku": "TH-GI-1063",
+      "name": "Global Stripe Long Sleeve Tee",
+      "slug": "global-stripe-long-sleeve-tee-1063",
+      "category": "girls",
+      "subcategory": "t-shirts",
+      "price": 27.93,
+      "oldPrice": 34.91,
+      "discountPercent": 20,
+      "currency": "USD",
+      "rating": 4.1,
+      "reviewCount": 383,
+      "colors": [
+        {
+          "name": "Olive",
+          "hex": "#5a5f3a",
+          "image": "https://picsum.photos/seed/global-stripe-long-sleeve-tee-1063-olive/800/1000"
+        },
+        {
+          "name": "Optic White",
+          "hex": "#ffffff",
+          "image": "https://picsum.photos/seed/global-stripe-long-sleeve-tee-1063-optic-white/800/1000"
+        },
+        {
+          "name": "Ecru",
+          "hex": "#efe6d3",
+          "image": "https://picsum.photos/seed/global-stripe-long-sleeve-tee-1063-ecru/800/1000"
+        }
+      ],
+      "sizes": [
+        "4-5Y",
+        "6-7Y",
+        "8-9Y",
+        "10-11Y",
+        "12-13Y",
+        "14-16Y"
+      ],
+      "images": [
+        "https://picsum.photos/seed/global-stripe-long-sleeve-tee-1063-1/800/1000",
+        "https://picsum.photos/seed/global-stripe-long-sleeve-tee-1063-2/800/1000",
+        "https://picsum.photos/seed/global-stripe-long-sleeve-tee-1063-3/800/1000",
+        "https://picsum.photos/seed/global-stripe-long-sleeve-tee-1063-4/800/1000"
+      ],
+      "badges": [
+        "sale",
+        "new"
+      ],
+      "inStock": true,
+      "stock": 95,
+      "fit": "Oversized",
+      "material": "Wool Blend",
+      "description": "Global Stripe Long Sleeve Tee — t-shirts from the girls's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-03-23"
+    },
+    {
+      "id": 1064,
+      "sku": "TH-GI-1064",
+      "name": "Essential Long Sleeve Tee",
+      "slug": "essential-long-sleeve-tee-1064",
+      "category": "girls",
+      "subcategory": "t-shirts",
+      "price": 104.93,
+      "oldPrice": null,
+      "discountPercent": 0,
+      "currency": "USD",
+      "rating": 4.8,
+      "reviewCount": 105,
+      "colors": [
+        {
+          "name": "Desert Sky",
+          "hex": "#0a1f44",
+          "image": "https://picsum.photos/seed/essential-long-sleeve-tee-1064-desert-sky/800/1000"
+        },
+        {
+          "name": "Sand Khaki",
+          "hex": "#c2b280",
+          "image": "https://picsum.photos/seed/essential-long-sleeve-tee-1064-sand-khaki/800/1000"
+        },
+        {
+          "name": "Navy Blazer",
+          "hex": "#1b2a41",
+          "image": "https://picsum.photos/seed/essential-long-sleeve-tee-1064-navy-blazer/800/1000"
+        }
+      ],
+      "sizes": [
+        "4-5Y",
+        "6-7Y",
+        "8-9Y",
+        "10-11Y",
+        "12-13Y",
+        "14-16Y"
+      ],
+      "images": [
+        "https://picsum.photos/seed/essential-long-sleeve-tee-1064-1/800/1000",
+        "https://picsum.photos/seed/essential-long-sleeve-tee-1064-2/800/1000",
+        "https://picsum.photos/seed/essential-long-sleeve-tee-1064-3/800/1000",
+        "https://picsum.photos/seed/essential-long-sleeve-tee-1064-4/800/1000"
+      ],
+      "badges": [],
+      "inStock": false,
+      "stock": 47,
+      "fit": "Relaxed Fit",
+      "material": "100% Cotton",
+      "description": "Essential Long Sleeve Tee — t-shirts from the girls's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-07-18"
+    },
+    {
+      "id": 1065,
+      "sku": "TH-GI-1065",
+      "name": "Signature Stripe Midi Shirt Dress",
+      "slug": "signature-stripe-midi-shirt-dress-1065",
+      "category": "girls",
+      "subcategory": "dresses",
+      "price": 69.93,
+      "oldPrice": 87.41,
+      "discountPercent": 20,
+      "currency": "USD",
+      "rating": 4.7,
+      "reviewCount": 214,
+      "colors": [
+        {
+          "name": "Charcoal Grey",
+          "hex": "#4a4a4a",
+          "image": "https://picsum.photos/seed/signature-stripe-midi-shirt-dress-1065-charcoal-grey/800/1000"
+        },
+        {
+          "name": "Desert Sky",
+          "hex": "#0a1f44",
+          "image": "https://picsum.photos/seed/signature-stripe-midi-shirt-dress-1065-desert-sky/800/1000"
+        },
+        {
+          "name": "Ecru",
+          "hex": "#efe6d3",
+          "image": "https://picsum.photos/seed/signature-stripe-midi-shirt-dress-1065-ecru/800/1000"
+        },
+        {
+          "name": "Sky Cloud",
+          "hex": "#a8c4de",
+          "image": "https://picsum.photos/seed/signature-stripe-midi-shirt-dress-1065-sky-cloud/800/1000"
+        }
+      ],
+      "sizes": [
+        "4-5Y",
+        "6-7Y",
+        "8-9Y",
+        "10-11Y",
+        "12-13Y",
+        "14-16Y"
+      ],
+      "images": [
+        "https://picsum.photos/seed/signature-stripe-midi-shirt-dress-1065-1/800/1000",
+        "https://picsum.photos/seed/signature-stripe-midi-shirt-dress-1065-2/800/1000",
+        "https://picsum.photos/seed/signature-stripe-midi-shirt-dress-1065-3/800/1000",
+        "https://picsum.photos/seed/signature-stripe-midi-shirt-dress-1065-4/800/1000"
+      ],
+      "badges": [
+        "sale"
+      ],
+      "inStock": true,
+      "stock": 97,
+      "fit": "Regular Fit",
+      "material": "Wool Blend",
+      "description": "Signature Stripe Midi Shirt Dress — dresses from the girls's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-04-17"
+    },
+    {
+      "id": 1066,
+      "sku": "TH-GI-1066",
+      "name": "Archive Knit Midi Dress",
+      "slug": "archive-knit-midi-dress-1066",
+      "category": "girls",
+      "subcategory": "dresses",
+      "price": 104.93,
+      "oldPrice": 131.16,
+      "discountPercent": 20,
+      "currency": "USD",
+      "rating": 4.8,
+      "reviewCount": 138,
+      "colors": [
+        {
+          "name": "Ecru",
+          "hex": "#efe6d3",
+          "image": "https://picsum.photos/seed/archive-knit-midi-dress-1066-ecru/800/1000"
+        },
+        {
+          "name": "Black",
+          "hex": "#111111",
+          "image": "https://picsum.photos/seed/archive-knit-midi-dress-1066-black/800/1000"
+        }
+      ],
+      "sizes": [
+        "4-5Y",
+        "6-7Y",
+        "8-9Y",
+        "10-11Y",
+        "12-13Y",
+        "14-16Y"
+      ],
+      "images": [
+        "https://picsum.photos/seed/archive-knit-midi-dress-1066-1/800/1000",
+        "https://picsum.photos/seed/archive-knit-midi-dress-1066-2/800/1000",
+        "https://picsum.photos/seed/archive-knit-midi-dress-1066-3/800/1000",
+        "https://picsum.photos/seed/archive-knit-midi-dress-1066-4/800/1000"
+      ],
+      "badges": [
+        "sale",
+        "bestseller"
+      ],
+      "inStock": true,
+      "stock": 101,
+      "fit": "Regular Fit",
+      "material": "Wool Blend",
+      "description": "Archive Knit Midi Dress — dresses from the girls's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-06-10"
+    },
+    {
+      "id": 1067,
+      "sku": "TH-GI-1067",
+      "name": "Varsity Zip Through Hoodie",
+      "slug": "varsity-zip-through-hoodie-1067",
+      "category": "girls",
+      "subcategory": "hoodies-sweatshirts",
+      "price": 20.93,
+      "oldPrice": 29.9,
+      "discountPercent": 30,
+      "currency": "USD",
+      "rating": 3.8,
+      "reviewCount": 519,
+      "colors": [
+        {
+          "name": "Optic White",
+          "hex": "#ffffff",
+          "image": "https://picsum.photos/seed/varsity-zip-through-hoodie-1067-optic-white/800/1000"
+        },
+        {
+          "name": "Charcoal Grey",
+          "hex": "#4a4a4a",
+          "image": "https://picsum.photos/seed/varsity-zip-through-hoodie-1067-charcoal-grey/800/1000"
+        },
+        {
+          "name": "Olive",
+          "hex": "#5a5f3a",
+          "image": "https://picsum.photos/seed/varsity-zip-through-hoodie-1067-olive/800/1000"
+        },
+        {
+          "name": "Navy Blazer",
+          "hex": "#1b2a41",
+          "image": "https://picsum.photos/seed/varsity-zip-through-hoodie-1067-navy-blazer/800/1000"
+        }
+      ],
+      "sizes": [
+        "4-5Y",
+        "6-7Y",
+        "8-9Y",
+        "10-11Y",
+        "12-13Y",
+        "14-16Y"
+      ],
+      "images": [
+        "https://picsum.photos/seed/varsity-zip-through-hoodie-1067-1/800/1000",
+        "https://picsum.photos/seed/varsity-zip-through-hoodie-1067-2/800/1000",
+        "https://picsum.photos/seed/varsity-zip-through-hoodie-1067-3/800/1000",
+        "https://picsum.photos/seed/varsity-zip-through-hoodie-1067-4/800/1000"
+      ],
+      "badges": [
+        "sale"
+      ],
+      "inStock": true,
+      "stock": 78,
+      "fit": "Slim Fit",
+      "material": "Leather",
+      "description": "Varsity Zip Through Hoodie — hoodies & sweatshirts from the girls's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-05-24"
+    },
+    {
+      "id": 1068,
+      "sku": "TH-GI-1068",
+      "name": "Flag Logo Hoodie",
+      "slug": "flag-logo-hoodie-1068",
+      "category": "girls",
+      "subcategory": "hoodies-sweatshirts",
+      "price": 69.93,
+      "oldPrice": null,
+      "discountPercent": 0,
+      "currency": "USD",
+      "rating": 4.5,
+      "reviewCount": 71,
+      "colors": [
+        {
+          "name": "Optic White",
+          "hex": "#ffffff",
+          "image": "https://picsum.photos/seed/flag-logo-hoodie-1068-optic-white/800/1000"
+        },
+        {
+          "name": "Olive",
+          "hex": "#5a5f3a",
+          "image": "https://picsum.photos/seed/flag-logo-hoodie-1068-olive/800/1000"
+        },
+        {
+          "name": "Ecru",
+          "hex": "#efe6d3",
+          "image": "https://picsum.photos/seed/flag-logo-hoodie-1068-ecru/800/1000"
+        }
+      ],
+      "sizes": [
+        "4-5Y",
+        "6-7Y",
+        "8-9Y",
+        "10-11Y",
+        "12-13Y",
+        "14-16Y"
+      ],
+      "images": [
+        "https://picsum.photos/seed/flag-logo-hoodie-1068-1/800/1000",
+        "https://picsum.photos/seed/flag-logo-hoodie-1068-2/800/1000",
+        "https://picsum.photos/seed/flag-logo-hoodie-1068-3/800/1000",
+        "https://picsum.photos/seed/flag-logo-hoodie-1068-4/800/1000"
+      ],
+      "badges": [
+        "new",
+        "bestseller"
+      ],
+      "inStock": true,
+      "stock": 79,
+      "fit": "Relaxed Fit",
+      "material": "Recycled Polyester",
+      "description": "Flag Logo Hoodie — hoodies & sweatshirts from the girls's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-05-24"
+    },
+    {
+      "id": 1069,
+      "sku": "TH-GI-1069",
+      "name": "Relaxed Fit Bomber Jacket",
+      "slug": "relaxed-fit-bomber-jacket-1069",
+      "category": "girls",
+      "subcategory": "jackets",
+      "price": 174.93,
+      "oldPrice": 291.55,
+      "discountPercent": 40,
+      "currency": "USD",
+      "rating": 4.8,
+      "reviewCount": 412,
+      "colors": [
+        {
+          "name": "Ecru",
+          "hex": "#efe6d3",
+          "image": "https://picsum.photos/seed/relaxed-fit-bomber-jacket-1069-ecru/800/1000"
+        },
+        {
+          "name": "Navy Blazer",
+          "hex": "#1b2a41",
+          "image": "https://picsum.photos/seed/relaxed-fit-bomber-jacket-1069-navy-blazer/800/1000"
+        },
+        {
+          "name": "Sky Cloud",
+          "hex": "#a8c4de",
+          "image": "https://picsum.photos/seed/relaxed-fit-bomber-jacket-1069-sky-cloud/800/1000"
+        },
+        {
+          "name": "Charcoal Grey",
+          "hex": "#4a4a4a",
+          "image": "https://picsum.photos/seed/relaxed-fit-bomber-jacket-1069-charcoal-grey/800/1000"
+        }
+      ],
+      "sizes": [
+        "4-5Y",
+        "6-7Y",
+        "8-9Y",
+        "10-11Y",
+        "12-13Y",
+        "14-16Y"
+      ],
+      "images": [
+        "https://picsum.photos/seed/relaxed-fit-bomber-jacket-1069-1/800/1000",
+        "https://picsum.photos/seed/relaxed-fit-bomber-jacket-1069-2/800/1000",
+        "https://picsum.photos/seed/relaxed-fit-bomber-jacket-1069-3/800/1000",
+        "https://picsum.photos/seed/relaxed-fit-bomber-jacket-1069-4/800/1000"
+      ],
+      "badges": [
+        "sale"
+      ],
+      "inStock": true,
+      "stock": 12,
+      "fit": "Relaxed Fit",
+      "material": "Recycled Polyester",
+      "description": "Relaxed Fit Bomber Jacket — jackets from the girls's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-06-18"
+    },
+    {
+      "id": 1070,
+      "sku": "TH-GI-1070",
+      "name": "Small Logo Padded Jacket",
+      "slug": "small-logo-padded-jacket-1070",
+      "category": "girls",
+      "subcategory": "jackets",
+      "price": 139.93,
+      "oldPrice": null,
+      "discountPercent": 0,
+      "currency": "USD",
+      "rating": 4.6,
+      "reviewCount": 835,
+      "colors": [
+        {
+          "name": "Optic White",
+          "hex": "#ffffff",
+          "image": "https://picsum.photos/seed/small-logo-padded-jacket-1070-optic-white/800/1000"
+        },
+        {
+          "name": "Charcoal Grey",
+          "hex": "#4a4a4a",
+          "image": "https://picsum.photos/seed/small-logo-padded-jacket-1070-charcoal-grey/800/1000"
+        }
+      ],
+      "sizes": [
+        "4-5Y",
+        "6-7Y",
+        "8-9Y",
+        "10-11Y",
+        "12-13Y",
+        "14-16Y"
+      ],
+      "images": [
+        "https://picsum.photos/seed/small-logo-padded-jacket-1070-1/800/1000",
+        "https://picsum.photos/seed/small-logo-padded-jacket-1070-2/800/1000",
+        "https://picsum.photos/seed/small-logo-padded-jacket-1070-3/800/1000",
+        "https://picsum.photos/seed/small-logo-padded-jacket-1070-4/800/1000"
+      ],
+      "badges": [
+        "new",
+        "bestseller"
+      ],
+      "inStock": true,
+      "stock": 7,
+      "fit": "Relaxed Fit",
+      "material": "Leather",
+      "description": "Small Logo Padded Jacket — jackets from the girls's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-02-23"
+    },
+    {
+      "id": 1071,
+      "sku": "TH-GI-1071",
+      "name": "Small Logo Mom Jeans",
+      "slug": "small-logo-mom-jeans-1071",
+      "category": "girls",
+      "subcategory": "jeans",
+      "price": 174.93,
+      "oldPrice": 249.9,
+      "discountPercent": 30,
+      "currency": "USD",
+      "rating": 4.3,
+      "reviewCount": 114,
+      "colors": [
+        {
+          "name": "Black",
+          "hex": "#111111",
+          "image": "https://picsum.photos/seed/small-logo-mom-jeans-1071-black/800/1000"
+        },
+        {
+          "name": "Sand Khaki",
+          "hex": "#c2b280",
+          "image": "https://picsum.photos/seed/small-logo-mom-jeans-1071-sand-khaki/800/1000"
+        },
+        {
+          "name": "Optic White",
+          "hex": "#ffffff",
+          "image": "https://picsum.photos/seed/small-logo-mom-jeans-1071-optic-white/800/1000"
+        },
+        {
+          "name": "Charcoal Grey",
+          "hex": "#4a4a4a",
+          "image": "https://picsum.photos/seed/small-logo-mom-jeans-1071-charcoal-grey/800/1000"
+        }
+      ],
+      "sizes": [
+        "4-5Y",
+        "6-7Y",
+        "8-9Y",
+        "10-11Y",
+        "12-13Y",
+        "14-16Y"
+      ],
+      "images": [
+        "https://picsum.photos/seed/small-logo-mom-jeans-1071-1/800/1000",
+        "https://picsum.photos/seed/small-logo-mom-jeans-1071-2/800/1000",
+        "https://picsum.photos/seed/small-logo-mom-jeans-1071-3/800/1000",
+        "https://picsum.photos/seed/small-logo-mom-jeans-1071-4/800/1000"
+      ],
+      "badges": [
+        "sale",
+        "bestseller"
+      ],
+      "inStock": true,
+      "stock": 71,
+      "fit": "Relaxed Fit",
+      "material": "100% Cotton",
+      "description": "Small Logo Mom Jeans — jeans from the girls's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-05-28"
+    },
+    {
+      "id": 1072,
+      "sku": "TH-GI-1072",
+      "name": "Heritage Mom Jeans",
+      "slug": "heritage-mom-jeans-1072",
+      "category": "girls",
+      "subcategory": "jeans",
+      "price": 90.93,
+      "oldPrice": null,
+      "discountPercent": 0,
+      "currency": "USD",
+      "rating": 4.0,
+      "reviewCount": 188,
+      "colors": [
+        {
+          "name": "Charcoal Grey",
+          "hex": "#4a4a4a",
+          "image": "https://picsum.photos/seed/heritage-mom-jeans-1072-charcoal-grey/800/1000"
+        },
+        {
+          "name": "Ecru",
+          "hex": "#efe6d3",
+          "image": "https://picsum.photos/seed/heritage-mom-jeans-1072-ecru/800/1000"
+        },
+        {
+          "name": "Desert Sky",
+          "hex": "#0a1f44",
+          "image": "https://picsum.photos/seed/heritage-mom-jeans-1072-desert-sky/800/1000"
+        },
+        {
+          "name": "Black",
+          "hex": "#111111",
+          "image": "https://picsum.photos/seed/heritage-mom-jeans-1072-black/800/1000"
+        }
+      ],
+      "sizes": [
+        "4-5Y",
+        "6-7Y",
+        "8-9Y",
+        "10-11Y",
+        "12-13Y",
+        "14-16Y"
+      ],
+      "images": [
+        "https://picsum.photos/seed/heritage-mom-jeans-1072-1/800/1000",
+        "https://picsum.photos/seed/heritage-mom-jeans-1072-2/800/1000",
+        "https://picsum.photos/seed/heritage-mom-jeans-1072-3/800/1000",
+        "https://picsum.photos/seed/heritage-mom-jeans-1072-4/800/1000"
+      ],
+      "badges": [],
+      "inStock": true,
+      "stock": 97,
+      "fit": "Relaxed Fit",
+      "material": "Organic Cotton Blend",
+      "description": "Heritage Mom Jeans — jeans from the girls's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-06-10"
+    },
+    {
+      "id": 1073,
+      "sku": "TH-GI-1073",
+      "name": "Varsity Denim Mini Skirt",
+      "slug": "varsity-denim-mini-skirt-1073",
+      "category": "girls",
+      "subcategory": "skirts",
+      "price": 104.93,
+      "oldPrice": null,
+      "discountPercent": 0,
+      "currency": "USD",
+      "rating": 4.1,
+      "reviewCount": 468,
+      "colors": [
+        {
+          "name": "Primary Red",
+          "hex": "#c8102e",
+          "image": "https://picsum.photos/seed/varsity-denim-mini-skirt-1073-primary-red/800/1000"
+        },
+        {
+          "name": "Desert Sky",
+          "hex": "#0a1f44",
+          "image": "https://picsum.photos/seed/varsity-denim-mini-skirt-1073-desert-sky/800/1000"
+        }
+      ],
+      "sizes": [
+        "4-5Y",
+        "6-7Y",
+        "8-9Y",
+        "10-11Y",
+        "12-13Y",
+        "14-16Y"
+      ],
+      "images": [
+        "https://picsum.photos/seed/varsity-denim-mini-skirt-1073-1/800/1000",
+        "https://picsum.photos/seed/varsity-denim-mini-skirt-1073-2/800/1000",
+        "https://picsum.photos/seed/varsity-denim-mini-skirt-1073-3/800/1000",
+        "https://picsum.photos/seed/varsity-denim-mini-skirt-1073-4/800/1000"
+      ],
+      "badges": [
+        "new"
+      ],
+      "inStock": true,
+      "stock": 47,
+      "fit": "Relaxed Fit",
+      "material": "Leather",
+      "description": "Varsity Denim Mini Skirt — skirts from the girls's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-06-28"
+    },
+    {
+      "id": 1074,
+      "sku": "TH-GI-1074",
+      "name": "Classic Denim Mini Skirt",
+      "slug": "classic-denim-mini-skirt-1074",
+      "category": "girls",
+      "subcategory": "skirts",
+      "price": 34.93,
+      "oldPrice": 58.22,
+      "discountPercent": 40,
+      "currency": "USD",
+      "rating": 4.4,
+      "reviewCount": 428,
+      "colors": [
+        {
+          "name": "Optic White",
+          "hex": "#ffffff",
+          "image": "https://picsum.photos/seed/classic-denim-mini-skirt-1074-optic-white/800/1000"
+        },
+        {
+          "name": "Black",
+          "hex": "#111111",
+          "image": "https://picsum.photos/seed/classic-denim-mini-skirt-1074-black/800/1000"
+        }
+      ],
+      "sizes": [
+        "4-5Y",
+        "6-7Y",
+        "8-9Y",
+        "10-11Y",
+        "12-13Y",
+        "14-16Y"
+      ],
+      "images": [
+        "https://picsum.photos/seed/classic-denim-mini-skirt-1074-1/800/1000",
+        "https://picsum.photos/seed/classic-denim-mini-skirt-1074-2/800/1000",
+        "https://picsum.photos/seed/classic-denim-mini-skirt-1074-3/800/1000",
+        "https://picsum.photos/seed/classic-denim-mini-skirt-1074-4/800/1000"
+      ],
+      "badges": [
+        "sale"
+      ],
+      "inStock": true,
+      "stock": 96,
+      "fit": "Slim Fit",
+      "material": "Organic Cotton Blend",
+      "description": "Classic Denim Mini Skirt — skirts from the girls's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-07-13"
+    },
+    {
+      "id": 1075,
+      "sku": "TH-GI-1075",
+      "name": "Global Stripe Boots",
+      "slug": "global-stripe-boots-1075",
+      "category": "girls",
+      "subcategory": "shoes",
+      "price": 69.93,
+      "oldPrice": null,
+      "discountPercent": 0,
+      "currency": "USD",
+      "rating": 3.9,
+      "reviewCount": 220,
+      "colors": [
+        {
+          "name": "Desert Sky",
+          "hex": "#0a1f44",
+          "image": "https://picsum.photos/seed/global-stripe-boots-1075-desert-sky/800/1000"
+        },
+        {
+          "name": "Navy Blazer",
+          "hex": "#1b2a41",
+          "image": "https://picsum.photos/seed/global-stripe-boots-1075-navy-blazer/800/1000"
+        },
+        {
+          "name": "Sky Cloud",
+          "hex": "#a8c4de",
+          "image": "https://picsum.photos/seed/global-stripe-boots-1075-sky-cloud/800/1000"
+        }
+      ],
+      "sizes": [
+        "4-5Y",
+        "6-7Y",
+        "8-9Y",
+        "10-11Y",
+        "12-13Y",
+        "14-16Y"
+      ],
+      "images": [
+        "https://picsum.photos/seed/global-stripe-boots-1075-1/800/1000",
+        "https://picsum.photos/seed/global-stripe-boots-1075-2/800/1000",
+        "https://picsum.photos/seed/global-stripe-boots-1075-3/800/1000",
+        "https://picsum.photos/seed/global-stripe-boots-1075-4/800/1000"
+      ],
+      "badges": [
+        "bestseller"
+      ],
+      "inStock": true,
+      "stock": 97,
+      "fit": "Relaxed Fit",
+      "material": "Organic Cotton Blend",
+      "description": "Global Stripe Boots — shoes from the girls's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-06-13"
+    },
+    {
+      "id": 1076,
+      "sku": "TH-GI-1076",
+      "name": "Flag Logo Loafers",
+      "slug": "flag-logo-loafers-1076",
+      "category": "girls",
+      "subcategory": "shoes",
+      "price": 174.93,
+      "oldPrice": null,
+      "discountPercent": 0,
+      "currency": "USD",
+      "rating": 4.8,
+      "reviewCount": 829,
+      "colors": [
+        {
+          "name": "Sky Cloud",
+          "hex": "#a8c4de",
+          "image": "https://picsum.photos/seed/flag-logo-loafers-1076-sky-cloud/800/1000"
+        },
+        {
+          "name": "Ecru",
+          "hex": "#efe6d3",
+          "image": "https://picsum.photos/seed/flag-logo-loafers-1076-ecru/800/1000"
+        }
+      ],
+      "sizes": [
+        "4-5Y",
+        "6-7Y",
+        "8-9Y",
+        "10-11Y",
+        "12-13Y",
+        "14-16Y"
+      ],
+      "images": [
+        "https://picsum.photos/seed/flag-logo-loafers-1076-1/800/1000",
+        "https://picsum.photos/seed/flag-logo-loafers-1076-2/800/1000",
+        "https://picsum.photos/seed/flag-logo-loafers-1076-3/800/1000",
+        "https://picsum.photos/seed/flag-logo-loafers-1076-4/800/1000"
+      ],
+      "badges": [],
+      "inStock": true,
+      "stock": 50,
+      "fit": "Slim Fit",
+      "material": "Recycled Polyester",
+      "description": "Flag Logo Loafers — shoes from the girls's collection. Signature flag detail, soft handfeel and an everyday-ready silhouette.",
+      "care": "Machine wash at 30°C. Do not tumble dry.",
+      "createdAt": "2026-01-24"
+    }
+  ]
+}
