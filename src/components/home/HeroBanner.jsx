@@ -19,13 +19,17 @@ const HeroBanner = ({
       <Link to={primaryTo}>
         <img src={image} alt={title} className="w-full object-cover" />
       </Link>
-      <div className="absolute bottom-16 left-0 px-12 text-white max-w-xl pointer-events-none">
-        <h1 className="text-6xl font-light mb-2">{title}</h1>
-        {eyebrow && <p className="italic text-xl mb-4">{eyebrow}</p>}
-        <p className="text-lg mb-6">{description}</p>
-        <div className="flex gap-4 pointer-events-auto">
+      <div className="absolute bottom-4 sm:bottom-10 md:bottom-16 left-0 px-4 sm:px-8 md:px-12 text-white max-w-xl pointer-events-none">
+        <h1 className="text-2xl sm:text-4xl md:text-6xl font-light mb-1 sm:mb-2">{title}</h1>
+        {eyebrow && <p className="italic text-sm sm:text-lg md:text-xl mb-2 sm:mb-4">{eyebrow}</p>}
+        <p className="hidden sm:block text-sm md:text-lg mb-3 sm:mb-6">{description}</p>
+        <div className="flex flex-col sm:flex-row gap-2 sm:gap-4 pointer-events-auto">
           {ctas.map((cta) => (
-            <Link key={cta.label} to={cta.to} className="bg-white text-black px-6 py-3 font-medium">
+            <Link
+              key={cta.label}
+              to={cta.to}
+              className="bg-white text-black px-4 py-2 sm:px-6 sm:py-3 text-xs sm:text-base font-medium whitespace-nowrap"
+            >
               {cta.label}
             </Link>
           ))}
