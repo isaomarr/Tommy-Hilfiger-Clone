@@ -2,6 +2,7 @@ import React, { useState } from 'react'
 import { Link, useNavigate } from 'react-router-dom'
 import { FiEye, FiEyeOff, FiX } from 'react-icons/fi'
 import { useAuth } from '../../context/AuthContext'
+import useLockBodyScroll from '../../hooks/useLockBodyScroll'
 
 const PERKS = ['Early access to sales & exclusive offers', 'Extended returns']
 
@@ -175,6 +176,7 @@ const SignUpFields = ({ onDone }) => {
 
 const AuthDrawer = () => {
   const { authDrawerOpen, authDrawerTab, closeAuthDrawer, setAuthDrawerTab } = useAuth()
+  useLockBodyScroll(authDrawerOpen)
 
   return (
     <>

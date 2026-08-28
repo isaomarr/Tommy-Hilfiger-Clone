@@ -4,9 +4,11 @@ import { useCart } from '../../context/CartContext'
 import Button from '../common/Button'
 import CartItem from './CartItem'
 import CartSummary from './CartSummary'
+import useLockBodyScroll from '../../hooks/useLockBodyScroll'
 
 const CartDrawer = () => {
   const { items, isDrawerOpen, closeDrawer, updateQty, removeItem, subtotal, itemCount } = useCart()
+  useLockBodyScroll(isDrawerOpen)
 
   return (
     <>

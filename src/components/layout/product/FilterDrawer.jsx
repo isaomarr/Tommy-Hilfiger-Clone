@@ -2,6 +2,7 @@ import React, { useEffect, useMemo, useState } from 'react'
 import { Link, useParams, useSearchParams } from 'react-router-dom'
 import { FiChevronDown, FiX } from 'react-icons/fi'
 import { filters, getFilterCounts, getGenderCounts, subcategoryLabel } from '../../data/shopData'
+import useLockBodyScroll from '../../hooks/useLockBodyScroll'
 
 const parseCsv = (value) => (value ? value.split(',').filter(Boolean) : [])
 
@@ -27,6 +28,7 @@ const FilterDrawer = ({ isOpen, onClose, baseList, genderScopeList = baseList, r
   const { category, subcategory } = useParams()
   const [searchParams, setSearchParams] = useSearchParams()
   const [openSections, setOpenSections] = useState({ gender: true })
+  useLockBodyScroll(isOpen)
 
   const toggleSection = (key) => setOpenSections((prev) => ({ ...prev, [key]: !prev[key] }))
 

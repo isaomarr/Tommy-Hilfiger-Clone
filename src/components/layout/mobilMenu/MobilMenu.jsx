@@ -3,9 +3,11 @@ import { Link } from 'react-router-dom'
 import { FiX } from 'react-icons/fi'
 import { mainNavItems } from '../../data/shopData'
 import { useAuth } from '../../context/AuthContext'
+import useLockBodyScroll from '../../hooks/useLockBodyScroll'
 
 const MobilMenu = ({ isOpen, onClose }) => {
   const { user, isAuthenticated, logout } = useAuth()
+  useLockBodyScroll(isOpen)
 
   return (
     <>
