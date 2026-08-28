@@ -1,4 +1,5 @@
 import React from 'react'
+import { createPortal } from 'react-dom'
 import { Link } from 'react-router-dom'
 import { FiX } from 'react-icons/fi'
 import { mainNavItems } from '../../data/shopData'
@@ -9,7 +10,7 @@ const MobilMenu = ({ isOpen, onClose }) => {
   const { user, isAuthenticated, logout } = useAuth()
   useLockBodyScroll(isOpen)
 
-  return (
+  return createPortal(
     <>
       <div
         className={`fixed inset-0 bg-black/50 z-99 transition-opacity duration-500 ${isOpen ? 'opacity-100' : 'opacity-0 pointer-events-none'}`}
@@ -76,7 +77,8 @@ const MobilMenu = ({ isOpen, onClose }) => {
           )}
         </div>
       </div>
-    </>
+    </>,
+    document.body
   )
 }
 
