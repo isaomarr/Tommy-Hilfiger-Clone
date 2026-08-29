@@ -3,6 +3,7 @@ import { createPortal } from 'react-dom'
 import { Link, useNavigate } from 'react-router-dom'
 import { FiSearch, FiX } from 'react-icons/fi'
 import { search, formatPrice, getBestsellers } from '../../data/shopData'
+import useLockBodyScroll from '../../hooks/useLockBodyScroll'
 
 const TRENDING = [
   { label: "Men's Tops & Sweaters", to: '/men/sweaters' },
@@ -21,6 +22,8 @@ const SearchBar = () => {
   const ref = useRef(null)
 
   const results = query.trim() ? search(query).slice(0, 6) : []
+
+  useLockBodyScroll(open)
 
   const close = () => {
     setOpen(false)
