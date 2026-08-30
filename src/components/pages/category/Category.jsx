@@ -69,8 +69,7 @@ const Category = () => {
     return resolveBaseList(category, subcategory)
   }, [isSearchMode, query, category, subcategory])
 
-  // Unfiltered-by-gender pool for the Gender dropdown, so it can offer all three
-  // options (with counts) even while already viewing a single-gender page.
+ 
   const genderScopeList = useMemo(() => {
     if (isSearchMode) return []
     if (PLAIN_GENDER_CATEGORIES.includes(category)) return products
