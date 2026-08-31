@@ -1,5 +1,3 @@
-// shopData.js — src/data/shopData.js
-// import data from "./th-clone-data.json";
 import data from "./th-clone-data.json";
 
 export const meta = data.meta;
@@ -38,8 +36,6 @@ export const search = (q) => {
   );
 };
 
-// opts: { category, subcategory, sizes: [], colors: [], fits: [], min, max, onSale }
-// list: optional pre-resolved base list (e.g. a virtual category like "sale" or "kids")
 export const filterProducts = (opts = {}, list = products) =>
   list.filter((p) => {
     if (opts.category && p.category !== opts.category) return false;
@@ -79,9 +75,6 @@ export const sortProducts = (list, sortBy = "featured") => {
 export const formatPrice = (n) =>
   new Intl.NumberFormat("en-US", { style: "currency", currency: "USD" }).format(n);
 
-// Shared "how many items in this list match each filter value" counts —
-// used by both the individual filter pill dropdowns and the All Filters drawer
-// so the two stay in sync.
 export const getFilterCounts = (list) => {
   const subcategoryCounts = {};
   const sizeCounts = {};
@@ -107,10 +100,6 @@ export const getFilterCounts = (list) => {
   return { subcategoryCounts, sizeCounts, colorCounts, fitCounts, priceCounts };
 };
 
-// Gender counts only (men/women/boys/girls kept separate, matching usa.tommy.com's
-// own Gender filter), computed from a list that hasn't had gender narrowed out yet —
-// lets the Gender filter show all four options (with counts) even while viewing a
-// single-gender page like /men, instead of only showing the currently-active gender.
 export const getGenderCounts = (list) => {
   const counts = {};
   list.forEach((p) => {
@@ -127,10 +116,6 @@ export const subcategoryLabel = (slug) => {
   return slug;
 };
 
-// Header nav (Navbar + MobilMenu share this) — mirrors usa.tommy.com's top-level
-// nav order/labels, with "Kids" merging boys+girls and "Shoes & Accessories" /
-// "Tommy Jeans" derived as cross-category subcategory rollups (not real
-// top-level categories in the data, so they carry no subcategories of their own).
 const getNavEntry = (slug) => navigation.find((n) => n.slug === slug);
 
 const men = getNavEntry("men");
