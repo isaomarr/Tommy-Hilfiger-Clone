@@ -14,7 +14,7 @@ const App = () => {
       <CartProvider>
         <WishlistProvider>
           <Header />
-          <div className="pt-27.5">
+          <div style={{ paddingTop: 'var(--header-h, 7rem)' }}>
             <AppRoutes />
           </div>
           <Footer />

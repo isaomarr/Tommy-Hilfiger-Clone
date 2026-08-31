@@ -4,12 +4,14 @@ import { FiStar, FiHeart } from 'react-icons/fi'
 import Badge from '../common/Badgeş'
 import { formatPrice } from '../../data/shopData'
 import { useWishlist } from '../../context/WishlistContext'
+import { useAuth } from '../../context/AuthContext'
 
 const badgeTone = { sale: 'sale', new: 'new', bestseller: 'bestseller' }
 
 const ProductCard = ({ product }) => {
   const mainImage = product.colors?.[0]?.image || product.images[0]
   const { isSaved, toggle } = useWishlist()
+  const { isAuthenticated } = useAuth()
   const saved = isSaved(product.id)
 
   return (
@@ -25,16 +27,18 @@ const ProductCard = ({ product }) => {
             <Badge key={b} label={b} tone={badgeTone[b] || 'default'} />
           ))}
         </div>
-        <button
-          onClick={(e) => {
-            e.preventDefault()
-            toggle(product.id)
-          }}
-          aria-label={saved ? 'Remove from saved items' : 'Save item'}
-          className="absolute top-2 right-2 w-8 h-8 rounded-full bg-white/90 flex items-center justify-center"
-        >
-          <FiHeart className={saved ? 'fill-black text-black' : 'text-gray-600'} />
-        </button>
+        {isAuthenticated && (
+          <button
+            onClick={(e) => {
+              e.preventDefault()
+              toggle(product.id)
+            }}
+            aria-label={saved ? 'Remove from saved items' : 'Save item'}
+            className="absolute top-2 right-2 w-8 h-8 rounded-full bg-white/90 flex items-center justify-center"
+          >
+            <FiHeart className={saved ? 'fill-black text-black' : 'text-gray-600'} />
+          </button>
+        )}
       </div>
       <div className="pt-3">
         <p className="text-sm font-medium line-clamp-1">{product.name}</p>

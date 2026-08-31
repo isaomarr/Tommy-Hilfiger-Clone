@@ -1,4 +1,5 @@
 import React, { createContext, useContext, useEffect, useState } from 'react'
+import { useAuth } from './AuthContext'
 
 const WishlistContext = createContext(null)
 const STORAGE_KEY = 'th_wishlist'
@@ -12,6 +13,7 @@ const readIds = () => {
 }
 
 export const WishlistProvider = ({ children }) => {
+  const { isAuthenticated } = useAuth()
   const [ids, setIds] = useState(readIds)
 
   useEffect(() => {
@@ -21,6 +23,7 @@ export const WishlistProvider = ({ children }) => {
   const isSaved = (id) => ids.includes(id)
 
   const toggle = (id) => {
+    if (!isAuthenticated) return
     setIds((prev) => (prev.includes(id) ? prev.filter((x) => x !== id) : [...prev, id]))
   }
 

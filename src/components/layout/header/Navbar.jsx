@@ -139,12 +139,12 @@ const Navbar = ({ className = 'flex' }) => {
   }
 
   return (
-    <nav className={`${className} items-center gap-8`}>
+    <nav className={`${className} items-center gap-4 xl:gap-8`}>
       {NAV_CONFIG.map((item) => (
-        <div key={item.slug} className="h-full flex items-center" onMouseEnter={() => openNow(item.slug)} onMouseLeave={closeSoon}>
+        <div key={item.slug} className="flex items-center" onMouseEnter={() => openNow(item.slug)} onMouseLeave={closeSoon}>
           <Link
             to={`/${item.slug}`}
-            className={`text-sm font-medium hover:text-black ${openSlug === item.slug ? 'text-black' : 'text-gray-700'}`}
+            className={`text-sm font-medium whitespace-nowrap hover:text-black ${openSlug === item.slug ? 'text-black' : 'text-gray-700'}`}
           >
             {item.name}
           </Link>
@@ -153,7 +153,7 @@ const Navbar = ({ className = 'flex' }) => {
 
       {activeItem && (
         <div
-          className="absolute top-full left-1/2 -translate-x-1/2 w-screen bg-white border-t shadow-lg z-40"
+          className="absolute top-full left-0 w-full bg-white border-t shadow-lg z-40"
           onMouseEnter={() => openNow(openSlug)}
           onMouseLeave={closeSoon}
         >
